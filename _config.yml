@@ -15,6 +15,3 @@ permalink: /:title:output_ext
 
 collections:
   - projects
-
-sass:
-  sass_dir: assets/css
