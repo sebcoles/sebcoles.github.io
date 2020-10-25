@@ -1,7 +1,7 @@
 ---
 layout: post
 repolink: "https://github.com/sebcoles"
-title:  "Second Project!"
+title:  "Third Project!"
 description:  "A description of the first project"
 author: "sebcoles"
 categories: jekyll update
