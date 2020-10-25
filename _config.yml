@@ -12,3 +12,6 @@ github_username:  sebcoles
 # Build settings
 markdown: kramdown
 permalink: /:title:output_ext
+
+collections:
+  - projects
