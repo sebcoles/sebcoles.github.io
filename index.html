@@ -24,7 +24,7 @@ layout: default
 
 <div class="span3">
 
-{% for post in site.projects limit:n %}
+{% for project in site.projects limit:n %}
         <h2>
           <a class="post-link" href="{{ project.repolink }}">{{ project.title }}</a>
         </h2>
@@ -36,7 +36,7 @@ layout: default
 
 <div class="span3">
 
-{% for post in site.projects limit:n offset:n%}
+{% for project in site.projects limit:n offset:n%}
         <h2>
           <a class="post-link" href="{{ project.repolink }}">{{ project.title }}</a>
         </h2>
@@ -47,7 +47,7 @@ layout: default
 
 <div class="span3">
 
-{% for post in site.projects limit:n offset:m %}
+{% for project in site.projects limit:n offset:m %}
         <h2>
           <a class="post-link" href="{{ project.repolink }}">{{ project.title }}</a>
         </h2>
