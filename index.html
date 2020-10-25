@@ -3,20 +3,6 @@ layout: default
 ---
 
 <div class="home">
-
-  <ul class="post-list">
-    {% for project in site.projects %}
-      <li>
-        <h2>
-          <a class="post-link" href="{{ project.repolink }}">{{ project.title }}</a>
-        </h2>
-        <span class="post-meta">{{ project.author }}</span>
-        <p>{{ project.description }}</p>
-      </li>
-    {% endfor %}
-  </ul>
-  
-  
   
 {% capture n  %}{{ site.projects | size | divided_by:3}}{% endcapture %}
 {% capture m %} {{ n | times:2 }}{% endcapture %}
