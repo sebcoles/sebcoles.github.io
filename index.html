@@ -5,13 +5,13 @@ layout: default
 <div class="home">
 
   <ul class="post-list">
-    {% for post in site.projects %}
+    {% for project in site.projects %}
       <li>
         <h2>
-          <a class="post-link" href="{{ post.repolink }}">{{ post.title }}</a>
+          <a class="post-link" href="{{ project.repolink }}">{{ project.title }}</a>
         </h2>
-        <span class="post-meta">{{ post.author }}</span>
-        <p>{{ post.description }}</p>
+        <span class="post-meta">{{ project.author }}</span>
+        <p>{{ project.description }}</p>
       </li>
     {% endfor %}
   </ul>
