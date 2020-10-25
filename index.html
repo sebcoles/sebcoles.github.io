@@ -25,7 +25,11 @@ layout: default
 <div class="span3">
 
 {% for post in site.projects limit:n %}
-{{ post | content }}
+        <h2>
+          <a class="post-link" href="{{ project.repolink }}">{{ project.title }}</a>
+        </h2>
+        <span class="post-meta">{{ project.author }}</span>
+        <p>{{ project.description }}</p>
 {% endfor %}
 
 </div>
@@ -33,16 +37,22 @@ layout: default
 <div class="span3">
 
 {% for post in site.projects limit:n offset:n%}
-{{ post | content }}
-{% endfor %}
+        <h2>
+          <a class="post-link" href="{{ project.repolink }}">{{ project.title }}</a>
+        </h2>
+        <span class="post-meta">{{ project.author }}</span>
+        <p>{{ project.description }}</p>{% endfor %}
 
 </div>
 
 <div class="span3">
 
 {% for post in site.projects limit:n offset:m %}
-{{ post | content }}
-{% endfor %}
+        <h2>
+          <a class="post-link" href="{{ project.repolink }}">{{ project.title }}</a>
+        </h2>
+        <span class="post-meta">{{ project.author }}</span>
+        <p>{{ project.description }}</p>{% endfor %}
 
 </div>
   
