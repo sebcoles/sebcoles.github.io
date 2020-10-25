@@ -1,8 +1,8 @@
 ---
 layout: post
 repolink: "https://github.com/sebcoles"
-title:  "Welcome to Jekyll!"
-description:  "Welcome to Jekyll!"
+title:  "First Project!"
+description:  "A description of the first project"
 author: "sebcoles"
 categories: jekyll update
 ---
