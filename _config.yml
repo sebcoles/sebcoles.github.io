@@ -11,4 +11,4 @@ github_username:  sebcoles
 
 # Build settings
 markdown: kramdown
-permalink: /:year/:title:output_ext
+permalink: /:title:output_ext
