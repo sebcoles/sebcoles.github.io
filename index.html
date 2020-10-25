@@ -16,4 +16,34 @@ layout: default
     {% endfor %}
   </ul>
   
+  
+  
+{% capture n  %}{{ site.posts | size | divided_by:3}}{% endcapture %}
+{% capture m %} {{ n | times:2 }}{% endcapture %}
+
+
+<div class="span3">
+
+{% for post in site.posts limit:n %}
+{{ post | content }}
+{% endfor %}
+
+</div>
+
+<div class="span3">
+
+{% for post in site.posts limit:n offset:n%}
+{{ post | content }}
+{% endfor %}
+
+</div>
+
+<div class="span3">
+
+{% for post in site.posts limit:n offset:m %}
+{{ post | content }}
+{% endfor %}
+
+</div>
+  
 </div>
