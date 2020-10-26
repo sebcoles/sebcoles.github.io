@@ -10,33 +10,17 @@ layout: default
 {% capture m %} {{ n | times:2 }}{% endcapture %}
 
 <div class="row">
-  <div class="col-md-4">
+
     {% for project in site.projects limit:n %}
-        <h2>
-          <a class="post-link" href="{{ project.repolink }}">{{ project.title }}</a>
-        </h2>
-        <span class="post-meta">{{ project.author }}</span>
-        <p>{{ project.description }}</p>
-    {% endfor %}
-  </div>
     <div class="col-md-4">
-    {% for project in site.projects limit:n offset:n%}
         <h2>
           <a class="post-link" href="{{ project.repolink }}">{{ project.title }}</a>
         </h2>
         <span class="post-meta">{{ project.author }}</span>
         <p>{{ project.description }}</p>
+  </div>      
     {% endfor %}
-  </div>
-    <div class="col-md-4">
-    {% for project in site.projects limit:n offset:m%}
-        <h2>
-          <a class="post-link" href="{{ project.repolink }}">{{ project.title }}</a>
-        </h2>
-        <span class="post-meta">{{ project.author }}</span>
-        <p>{{ project.description }}</p>
-    {% endfor %}
-  </div>
+   
   </div>
   
   </br>
