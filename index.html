@@ -3,43 +3,139 @@ layout: default
 ---
 
 <div class="home">
-  
-  <h3>CI/CD</h3>
-  
-  <div class="row">
 
-    {% for project in site.projects %}
-    <div class="col-md-4">
-        <h2>
-          <a class="post-link" href="{{ project.repolink }}">{{ project.title }}</a>
-        </h2>
-        <span class="post-meta">{{ project.author }}</span>
-        <p>{{ project.description }}</p>
-  </div>      
-    {% endfor %}
-   
-  </div>
-  
-  </br>
-  
-<h3>SDK</h3>
-  
-  <div class="row">
+    <div class="content-type">
+        <h3>SDK</h3>
 
-    {% for project in site.projects %}
-    <div class="col-md-4">
-        <h2>
-          <a class="post-link" href="{{ project.repolink }}">{{ project.title }}</a>
-        </h2>
-        <span class="post-meta">{{ project.author }}</span>
-        <p>{{ project.description }}</p>
-  </div>      
-    {% endfor %}
-   
-  </div>
-  
-  </br>
-  
+        <div class="row">
 
-</div>
+            {% for project in site.projects %}
+            {% if project.content-type == "sdk" %}
+            <div class="col-md-4">
+                <h2>
+                    <a class="post-link" href="{{ project.repolink }}">{{ project.title }}</a>
+                </h2>
+                <span class="post-meta">{{ project.author }}</span>
+                <p>{{ project.description }}</p>
+            </div>
+            {% endif %}
+            {% endfor %}
+
+        </div>
+    </div>
+
+    <br />
+
+    <div class="content-type">
+
+        <h3>CI/CD</h3>
+
+        <div class="row">
+
+            {% for project in site.projects %}
+            {% if project.content-type == "ci/cd" %}
+            <div class="col-md-4">
+                <h2>
+                    <a class="post-link" href="{{ project.repolink }}">{{ project.title }}</a>
+                </h2>
+                <span class="post-meta">{{ project.author }}</span>
+                <p>{{ project.description }}</p>
+            </div>
+            {% endif %}
+            {% endfor %}
+
+        </div>
+    </div>
+
+    <br />
+
+    <div class="content-type">
+
+        <h3>IDE</h3>
+
+        <div class="row">
+
+            {% for project in site.projects %}
+            {% if project.content-type == "ide" %}
+            <div class="col-md-4">
+                <h2>
+                    <a class="post-link" href="{{ project.repolink }}">{{ project.title }}</a>
+                </h2>
+                <span class="post-meta">{{ project.author }}</span>
+                <p>{{ project.description }}</p>
+            </div>
+            {% endif %}
+            {% endfor %}
+
+        </div>
+    </div>
+
+    <br />
+
+    <div class="content-type">
+
+        <h3>Workflow</h3>
+
+        <div class="row">
+
+            {% for project in site.projects %}
+            {% if project.content-type == "workflow" %}
+            <div class="col-md-4">
+                <h2>
+                    <a class="post-link" href="{{ project.repolink }}">{{ project.title }}</a>
+                </h2>
+                <span class="post-meta">{{ project.author }}</span>
+                <p>{{ project.description }}</p>
+            </div>
+            {% endif %}
+            {% endfor %}
+
+        </div>
+    </div>
+
+    <br />
+    <div class="content-type">
+
+
+        <h3>Scripts</h3>
+
+        <div class="row">
+
+            {% for project in site.projects %}
+            {% if project.content-type == "scripts" %}
+            <div class="col-md-4">
+                <h2>
+                    <a class="post-link" href="{{ project.repolink }}">{{ project.title }}</a>
+                </h2>
+                <span class="post-meta">{{ project.author }}</span>
+                <p>{{ project.description }}</p>
+            </div>
+            {% endif %}
+            {% endfor %}
+
+        </div>
+    </div>
+
+    <br />
+
+    <div class="content-type">
+
+        <h3>Resources</h3>
+
+        <div class="row">
+
+            {% for project in site.projects %}
+            {% if project.content-type == "resources" %}
+            <div class="col-md-4">
+                <h2>
+                    <a class="post-link" href="{{ project.repolink }}">{{ project.title }}</a>
+                </h2>
+                <span class="post-meta">{{ project.author }}</span>
+                <p>{{ project.description }}</p>
+            </div>
+            {% endif %}
+            {% endfor %}
+
+        </div>
+    </div>
 </div>

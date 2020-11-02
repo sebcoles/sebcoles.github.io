@@ -1,9 +1,9 @@
 ---
 layout: post
 repolink: "https://github.com/sebcoles"
-title:  "First Project!"
+title:  "Fourth Project!"
 description:  "A description of the first project"
 author: "sebcoles"
-content-type: "sdk"
-categories: sdk
+content-type: "scripts"
+categories: scripts
 ---
