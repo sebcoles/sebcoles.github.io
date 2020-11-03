@@ -6,5 +6,5 @@ description:  "Lambda function that sends a message to a web hook, for instance 
 author: "Ctcampbell"
 author-link: "https://github.com/ctcampbell"
 content-type: "workflow"
-languages: workflow
+languages: python
 ---

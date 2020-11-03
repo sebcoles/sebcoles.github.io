@@ -6,5 +6,5 @@ description:  "Veracode custom HMAC request signing algorithm (used for API auth
 author: "ThibaudLopez"
 author-link: "https://gist.github.com/ThibaudLopez"
 content-type: "sdk"
-languages: node.js
+languages: node
 ---
