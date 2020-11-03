@@ -6,5 +6,5 @@ description:  "Full featured Bamboo plugin including configuration UI, wait for 
 author: "Buzzcode"
 author-link: "https://gitlab.com/buzzcode/"
 content-type: "ci/cd"
-languages: java
+language: java
 ---

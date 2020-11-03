@@ -6,5 +6,5 @@ description:  "A simple example script to delete a Sandbox if it exists in a Ver
 author: "christyson"
 author-link: "https://github.com/christyson/"
 content-type: "scripts"
-languages: python
+language: python
 ---

@@ -6,5 +6,5 @@ description:  "Sample insecure application written in Java and Javascript, showi
 author: "Jtsmith2020"
 author-link: "https://github.com/jtsmith2020/"
 content-type: "resources"
-languages: java
+language: java
 ---

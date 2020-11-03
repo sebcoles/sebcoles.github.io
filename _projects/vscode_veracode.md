@@ -6,5 +6,5 @@ description:  "A plugin for Visual Studio Code that enables integration with Ver
 author: "Buzzcode"
 author-link: "https://gitlab.com/buzzcode/"
 content-type: "ide"
-languages: node
+language: node
 ---
