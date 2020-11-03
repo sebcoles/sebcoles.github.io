@@ -14,10 +14,16 @@
                 <img id="banner-image" src="{{ "/assets/images/Logo_whiteonblack.png" | prepend: site.baseurl }}" />
             </div>
         </div>
-
+        <style>
+            #title-image {
+                display: block;
+                margin-left: auto;
+                margin-right: auto
+            }
+        </style>
         <div class="row">
             <div class="col-md-4">
-                <img src="{{ "/assets/images/header_icon.png" | prepend: site.baseurl }}" />
+                <img id="title-image" src="{{ "/assets/images/header_icon.png" | prepend: site.baseurl }}" />
             </div>
             <div class="col-md-8">
                 <style>
@@ -94,6 +100,22 @@
         <div class="row" style="margin-top:20px;">
             <div class="col-md-3">
                 <ul>
+
+                    <li><a class="menu-header" href="#sdk">Results</a></li>
+                    <li><a class="menu-subitem" href="#sdk">Collection</a></li>
+                    <li><a class="menu-subitem" href="#sdk">Transformation</a></li>
+                    <li><a class="menu-subitem" href="#sdk">Display</a></li>
+                </ul>
+            </div>
+            <div class="col-md-3">
+                <ul>
+                    <li><a class="menu-header" href="#sdk">Resources</a></li>
+                    <li><a class="menu-subitem" href="#sdk">Secure Coding</a></li>
+                    <li><a class="menu-subitem" href="#sdk">Insecure Apps</a></li>
+                </ul>
+            </div>
+            <div class="col-md-3">
+                <ul>
                     <li><a class="menu-header" href="#sdk">CI/CD</a></li>
                     <li><a class="menu-subitem" href="#sdk">Ansible</a></li>
                     <li><a class="menu-subitem" href="#sdk">Azure DevOps</a></li>
@@ -114,22 +136,6 @@
                     <li><a class="menu-subitem" href="#sdk">sbt</a></li>
                     <li><a class="menu-subitem" href="#sdk">Travis</a></li>
                     <li><a class="menu-subitem" href="#sdk">Xebia Labs</a></li>
-                </ul>
-            </div>
-            <div class="col-md-3">
-                <ul>
-
-                    <li><a class="menu-header" href="#sdk">Results</a></li>
-                    <li><a class="menu-subitem" href="#sdk">Collection</a></li>
-                    <li><a class="menu-subitem" href="#sdk">Transformation</a></li>
-                    <li><a class="menu-subitem" href="#sdk">Display</a></li>
-                </ul>
-            </div>
-            <div class="col-md-3">
-                <ul>
-                    <li><a class="menu-header" href="#sdk">Resources</a></li>
-                    <li><a class="menu-subitem" href="#sdk">Secure Coding</a></li>
-                    <li><a class="menu-subitem" href="#sdk">Insecure Apps</a></li>
                 </ul>
             </div>
         </div>
