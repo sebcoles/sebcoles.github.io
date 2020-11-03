@@ -41,8 +41,6 @@
                 color: #E1E369 !important;
                 font-weight: bold;
                 text-decoration: none !important;
-                margin-top: 30px;
-                margin-bottom: 30px;
                 font-size: 20px;
             }
 
@@ -55,14 +53,18 @@
             .menu-item p {
                 text-align: center
             }
+
+            li {
+                list-style: none;
+            }
         </style>
         <div class="row" style="margin-top:30px;">
             <div class="col-md-2">
                 <ul>
-                    <li class="menu-header"><a href="#sdk">SDK</a></li>
-                    <li class="menu-header"><a href="#sdk">API Wrappers</a></li>
-                    <li class="menu-header"><a href="#sdk">CLI</a></li>
-                    <li class="menu-header"><a href="#sdk">HMAC Signing</a></li>
+                    <li><a class="menu-header" href="#sdk">SDK</a></li>
+                    <li><a class="menu-subitem" href="#sdk">API Wrappers</a></li>
+                    <li><a class="menu-subitem" href="#sdk">CLI</a></li>
+                    <li><a class="menu-subitem" href="#sdk">HMAC Signing</a></li>
                 </ul>                
             </div>
             <div class="col-md-2">
