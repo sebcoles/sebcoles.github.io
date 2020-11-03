@@ -41,73 +41,21 @@
         </div>
         <div class="row">
             <div class="col-md-12">
-                <style>
-                    body {
-                        background-image: linear-gradient(to right, #cb2d3e, #ef473a);
-                    }
-
-                    .searchBox {
-                        position: absolute;
-                        top: 50%;
-                        left: 50%;
-                        transform: translate(-50%,50%);
-                        background: #2f3640;
-                        height: 40px;
-                        border-radius: 40px;
-                        padding: 10px;
-                    }
-
-                        .searchBox:hover > .searchInput {
-                            width: 240px;
-                            padding: 0 6px;
-                        }
-
-                        .searchBox:hover > .searchButton {
-                            background: white;
-                            color: #2f3640;
-                        }
-
-                    .searchButton {
-                        color: white;
-                        float: right;
-                        width: 40px;
-                        height: 40px;
-                        border-radius: 50%;
-                        background: #2f3640;
-                        display: flex;
-                        justify-content: center;
-                        align-items: center;
-                        transition: 0.4s;
-                    }
-
-                    .searchInput {
-                        border: none;
-                        background: none;
-                        outline: none;
-                        float: left;
-                        padding: 0;
-                        color: white;
-                        font-size: 16px;
-                        transition: 0.4s;
-                        line-height: 40px;
-                        width: 0px;
-                    }
-
-                    @media screen and (max-width: 620px) {
-                        .searchBox:hover > .searchInput {
-                            width: 150px;
-                            padding: 0 6px;
-                        }
-                    }
-                </style>
-                <div class="searchBox">
-                    <input class="searchInput" type="text" name="" placeholder="Search">
-                    <button class="searchButton" href="#">
-                        <i class="material-icons">
-                            search
-                        </i>
-                    </button>
+              
+                <div class="search">
+                    <input type="text" placeholder=" ">
+                    <div>
+                        <svg>
+                            <use xlink:href="#path">
+                        </svg>
+                    </div>
                 </div>
+
+                <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+                    <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 28" id="path">
+                        <path d="M32.9418651,-20.6880772 C37.9418651,-20.6880772 40.9418651,-16.6880772 40.9418651,-12.6880772 C40.9418651,-8.68807717 37.9418651,-4.68807717 32.9418651,-4.68807717 C27.9418651,-4.68807717 24.9418651,-8.68807717 24.9418651,-12.6880772 C24.9418651,-16.6880772 27.9418651,-20.6880772 32.9418651,-20.6880772 L32.9418651,-29.870624 C32.9418651,-30.3676803 33.3448089,-30.770624 33.8418651,-30.770624 C34.08056,-30.770624 34.3094785,-30.6758029 34.4782612,-30.5070201 L141.371843,76.386562" transform="translate(83.156854, 22.171573) rotate(-225.000000) translate(-83.156854, -22.171573)"></path>
+                    </symbol>
+                </svg>
             </div>
         </div>
         <style>
