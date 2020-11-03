@@ -6,5 +6,5 @@ description:  "Script to check if an application profile in Veracode has a build
 author: "christyson"
 author-link: "https://github.com/christyson/"
 content-type: "scripts"
-categories: scripts
+languages: scripts
 ---

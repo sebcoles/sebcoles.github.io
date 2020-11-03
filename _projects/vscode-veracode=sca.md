@@ -6,6 +6,6 @@ description:  "A very simple plugin for Veracode SCA to get agent-base SCA resul
 author: "Lerer"
 author-link: "https://github.com/Lerer/"
 content-type: "ide"
-categories: ide
+languages: ide
 ---
 
