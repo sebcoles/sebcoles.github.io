@@ -1,7 +1,6 @@
 <header class="site-header">
 
     <div class="wrapper">
-
         <div class="row">
             <div class="col-md-12">
                 <style>
@@ -22,7 +21,10 @@
             }
         </style>
         <div class="row">
-            <div class="col-md-12">
+            <div class="col-md-4">
+                <img id="title-image" src="{{ "/assets/images/header_icon.png" | prepend: site.baseurl }}" />
+            </div>
+            <div class="col-md-8">
                 <style>
                     #h1 {
                         text-align: center;
@@ -39,25 +41,6 @@
                 <p id="p1">A collection of useful open source projects that integrate with the Veracode APIs to automate scanning, results retrieval and other tasks.</p>
             </div>
         </div>
-        <div class="row">
-            <div class="col-md-12">
-                <div class="search-container">
-                    <div class="search">
-                      <input type="search" class="search-box" />
-                      <span class="search-button">
-                        <span class="search-icon"></span>
-                      </span>
-                    </div>
-                </div>
-              
-
-            </div>
-        </div>
-                        <script>
-                    $('.search-button').click(function(){
-                      $(this).parent().toggleClass('open');
-                    });
-                </script>
         <style>
             .menu-header {
                 color: #E1E369 !important;
