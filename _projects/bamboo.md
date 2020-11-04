@@ -7,4 +7,5 @@ author: "Buzzcode"
 author-link: "https://gitlab.com/buzzcode/"
 content-type: "ci/cd"
 language: "java"
+repo: "gitlab"
 ---

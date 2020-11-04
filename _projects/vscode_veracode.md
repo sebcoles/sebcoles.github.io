@@ -7,4 +7,5 @@ author: "Buzzcode"
 author-link: "https://gitlab.com/buzzcode/"
 content-type: "ide"
 language: "node"
+repo: "gitlab"
 ---

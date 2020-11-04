@@ -7,4 +7,6 @@ author: "Ctcampbell"
 author-link: "https://github.com/ctcampbell"
 content-type: "workflow"
 language: "python"
+repo: "github"
+repo_title: "veracode-notifier"_
 ---

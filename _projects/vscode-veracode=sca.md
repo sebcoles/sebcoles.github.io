@@ -7,5 +7,7 @@ author: "Lerer"
 author-link: "https://github.com/Lerer/"
 content-type: "ide"
 language: "node"
+repo: "github"
+repo_title: "vsccode-veracode-sca"
 ---
 

@@ -7,4 +7,5 @@ author: "ThibaudLopez"
 author-link: "https://gist.github.com/ThibaudLopez"
 content-type: "sdk"
 language: "node"
+repo: "gist"
 ---
