@@ -201,7 +201,7 @@ pre {
 
 $background-color: #2A2E37;
 $search-bg-color: #242628;
-$icon-color: #00FEDE;
+$icon-color: #E1E369;
 $transition: all .5s ease;
 * {
   box-sizing: border-box;
@@ -225,7 +225,7 @@ $transition: all .5s ease;
     transition: $transition;
   }
   &.open {
-    width: 420px;
+    width: 620px;
     &:before {
       height: 60px;
       margin: 20px 0 20px 30px;
