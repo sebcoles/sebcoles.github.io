@@ -169,7 +169,7 @@ layout: default
                             <script>
                                 $.ready(function () {                                
                                     $.getJSON("https://api.github.com/repos/{{ project.author }}/{{ project.title }}/stargazers", function (response) {
-                                        $(".{{ project.title }}_count").text(response.length);
+                                        $("#{{ project.title }}_count").text(response.length);
                                     });
                                 });
                             </script>
