@@ -8,6 +8,6 @@ author-link: "https://github.com/Lerer/"
 content-type: "ide"
 language: "node"
 repo: "github"
-repo_title: "vsccode-veracode-sca"
+repo_title: "vscode-veracode-sca"
 ---
 
