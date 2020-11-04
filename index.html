@@ -20,14 +20,15 @@ layout: default
             {% for project in site.projects %}
             {% if project.content-type == "sdk" %}
             <div class="col-md-4">
+                $("")
                 <h2>
                     <a class="post-link" href="{{ project.repolink }}">{{ project.title }}</a>
                 </h2>
+                <span><i style="font-size:40px" class="fab fa-{{ project.language }}"></i></span>
                 <a class="post-link" href="{{ project.repolink }}/star">
-                    <span><i style="font-size:22px" class="fa fa-star"></i></span>
+                    <span><img src="https://img.shields.io/github/stars/{{ project.author }}/{{ project.repository }}?style=social"/></span>
                 </a>
                 <p style="margin-bottom:2px">{{ project.description }}</p>
-                <span><i style="font-size:40px" class="fab fa-{{ project.language }}"></i></span>
             </div>
             {% endif %}
             {% endfor %}

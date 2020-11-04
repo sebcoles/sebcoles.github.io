@@ -7,4 +7,5 @@ author: "christyson"
 author-link: "https://github.com/christyson/"
 content-type: "scripts"
 language: "python"
+repository: "check_build_status"
 ---
