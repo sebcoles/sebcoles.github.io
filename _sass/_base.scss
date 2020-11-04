@@ -225,7 +225,7 @@ $transition: all .5s ease;
     transition: $transition;
   }
   &.open {
-    width: 620px;
+    width: 80%;
     &:before {
       height: 60px;
       margin: 20px 0 20px 30px;
