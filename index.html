@@ -20,14 +20,39 @@ layout: default
             {% for project in site.projects %}
             {% if project.content-type == "sdk" %}
             <div class="col-md-4">
-                <h2>
-                    <a class="post-link" href="{{ project.repolink }}">{{ project.title }}</a>
-                </h2>
-                <span><i style="font-size:40px" class="fab fa-{{ project.language }}"></i></span>
-                <a class="post-link" href="{{ project.repolink }}/star">
-                    <span><img src="https://img.shields.io/github/stars/{{ project.author }}/{{ project.repository }}?style=social"/></span>
-                </a>
-                <p style="margin-bottom:2px">{{ project.description }}</p>
+                <div class="row">
+                    <div class="col-md-12">
+
+                        <h2>
+                            <a class="post-link" href="{{ project.repolink }}">{{ project.title }}</a>
+                        </h2>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-2">
+                        <span><i style="font-size:40px" class="fab fa-{{ project.language }}"></i></span>
+                    </div>
+                    <div class="col-md-9">
+                        {% if project.repo == "github" %}
+                        <a class="post-link" href="{{ project.repolink }}/star">
+                            <span><i style="font-size:35px" class="fa fa-star"></i></span>
+                            <span id="{{ project.repo_title }}_count"><i style="font-size:40px"></i></span>
+                            <script>
+                                $(function () {
+                                    $.getJSON("https://api.github.com/repos/{{ project.author }}/{{ project.repo_title }}/stargazers", function (response) {
+                                        $("#{{ project.repo_title }}_count").text(response.length);
+                                    });
+                                });
+                            </script>
+                        </a>
+                        {% endif %}
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <p style="margin-bottom:2px">{{ project.description }}</p>
+                    </div>
+                </div>
             </div>
             {% endif %}
             {% endfor %}
@@ -49,14 +74,39 @@ layout: default
             {% for project in site.projects %}
             {% if project.content-type == "ci/cd" %}
             <div class="col-md-4">
-                <h2>
-                    <a class="post-link" href="{{ project.repolink }}">{{ project.title }}</a>
-                </h2>
-                <span><i style="font-size:40px" class="fab fa-{{ project.language }}"></i></span>
-                <a class="post-link" href="{{ project.repolink }}/star">
-                    <span><img src="https://img.shields.io/github/stars/{{ project.author }}/{{ project.repository }}?style=social" /></span>
-                </a>
-                <p style="margin-bottom:2px">{{ project.description }}</p>
+                <div class="row">
+                    <div class="col-md-12">
+
+                        <h2>
+                            <a class="post-link" href="{{ project.repolink }}">{{ project.title }}</a>
+                        </h2>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-2">
+                        <span><i style="font-size:40px" class="fab fa-{{ project.language }}"></i></span>
+                    </div>
+                    <div class="col-md-9">
+                        {% if project.repo == "github" %}
+                        <a class="post-link" href="{{ project.repolink }}/star">
+                            <span><i style="font-size:35px" class="fa fa-star"></i></span>
+                            <span id="{{ project.repo_title }}_count"><i style="font-size:40px"></i></span>
+                            <script>
+                                $(function () {
+                                    $.getJSON("https://api.github.com/repos/{{ project.author }}/{{ project.repo_title }}/stargazers", function (response) {
+                                        $("#{{ project.repo_title }}_count").text(response.length);
+                                    });
+                                });
+                            </script>
+                        </a>
+                        {% endif %}
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <p style="margin-bottom:2px">{{ project.description }}</p>
+                    </div>
+                </div>
             </div>
             {% endif %}
             {% endfor %}
@@ -75,14 +125,39 @@ layout: default
             {% for project in site.projects %}
             {% if project.content-type == "ide" %}
             <div class="col-md-4">
-                <h2>
-                    <a class="post-link" href="{{ project.repolink }}">{{ project.title }}</a>
-                </h2>
-                <span><i style="font-size:40px" class="fab fa-{{ project.language }}"></i></span>
-                <a class="post-link" href="{{ project.repolink }}/star">
-                    <span><img src="https://img.shields.io/github/stars/{{ project.author }}/{{ project.repository }}?style=social" /></span>
-                </a>
-                <p style="margin-bottom:2px">{{ project.description }}</p>
+                <div class="row">
+                    <div class="col-md-12">
+
+                        <h2>
+                            <a class="post-link" href="{{ project.repolink }}">{{ project.title }}</a>
+                        </h2>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-2">
+                        <span><i style="font-size:40px" class="fab fa-{{ project.language }}"></i></span>
+                    </div>
+                    <div class="col-md-9">
+                        {% if project.repo == "github" %}
+                        <a class="post-link" href="{{ project.repolink }}/star">
+                            <span><i style="font-size:35px" class="fa fa-star"></i></span>
+                            <span id="{{ project.repo_title }}_count"><i style="font-size:40px"></i></span>
+                            <script>
+                                $(function () {
+                                    $.getJSON("https://api.github.com/repos/{{ project.author }}/{{ project.repo_title }}/stargazers", function (response) {
+                                        $("#{{ project.repo_title }}_count").text(response.length);
+                                    });
+                                });
+                            </script>
+                        </a>
+                        {% endif %}
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <p style="margin-bottom:2px">{{ project.description }}</p>
+                    </div>
+                </div>
             </div>
             {% endif %}
             {% endfor %}
@@ -100,14 +175,39 @@ layout: default
             {% for project in site.projects %}
             {% if project.content-type == "workflow" %}
             <div class="col-md-4">
-                <h2>
-                    <a class="post-link" href="{{ project.repolink }}">{{ project.title }}</a>
-                </h2>
-                <span><i style="font-size:40px" class="fab fa-{{ project.language }}"></i></span>
-                <a class="post-link" href="{{ project.repolink }}/star">
-                    <span><img src="https://img.shields.io/github/stars/{{ project.author }}/{{ project.repository }}?style=social" /></span>
-                </a>
-                <p style="margin-bottom:2px">{{ project.description }}</p>
+                <div class="row">
+                    <div class="col-md-12">
+
+                        <h2>
+                            <a class="post-link" href="{{ project.repolink }}">{{ project.title }}</a>
+                        </h2>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-2">
+                        <span><i style="font-size:40px" class="fab fa-{{ project.language }}"></i></span>
+                    </div>
+                    <div class="col-md-9">
+                        {% if project.repo == "github" %}
+                        <a class="post-link" href="{{ project.repolink }}/star">
+                            <span><i style="font-size:35px" class="fa fa-star"></i></span>
+                            <span id="{{ project.repo_title }}_count"><i style="font-size:40px"></i></span>
+                            <script>
+                                $(function () {
+                                    $.getJSON("https://api.github.com/repos/{{ project.author }}/{{ project.repo_title }}/stargazers", function (response) {
+                                        $("#{{ project.repo_title }}_count").text(response.length);
+                                    });
+                                });
+                            </script>
+                        </a>
+                        {% endif %}
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <p style="margin-bottom:2px">{{ project.description }}</p>
+                    </div>
+                </div>
             </div>
             {% endif %}
             {% endfor %}
@@ -125,14 +225,39 @@ layout: default
             {% for project in site.projects %}
             {% if project.content-type == "results" %}
             <div class="col-md-4">
-                <h2>
-                    <a class="post-link" href="{{ project.repolink }}">{{ project.title }}</a>
-                </h2>
-                <span><i style="font-size:40px" class="fab fa-{{ project.language }}"></i></span>
-                <a class="post-link" href="{{ project.repolink }}/star">
-                    <span><img src="https://img.shields.io/github/stars/{{ project.author }}/{{ project.repository }}?style=social" /></span>
-                </a>
-                <p style="margin-bottom:2px">{{ project.description }}</p>
+                <div class="row">
+                    <div class="col-md-12">
+
+                        <h2>
+                            <a class="post-link" href="{{ project.repolink }}">{{ project.title }}</a>
+                        </h2>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-2">
+                        <span><i style="font-size:40px" class="fab fa-{{ project.language }}"></i></span>
+                    </div>
+                    <div class="col-md-9">
+                        {% if project.repo == "github" %}
+                        <a class="post-link" href="{{ project.repolink }}/star">
+                            <span><i style="font-size:35px" class="fa fa-star"></i></span>
+                            <span id="{{ project.repo_title }}_count"><i style="font-size:40px"></i></span>
+                            <script>
+                                $(function () {
+                                    $.getJSON("https://api.github.com/repos/{{ project.author }}/{{ project.repo_title }}/stargazers", function (response) {
+                                        $("#{{ project.repo_title }}_count").text(response.length);
+                                    });
+                                });
+                            </script>
+                        </a>
+                        {% endif %}
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <p style="margin-bottom:2px">{{ project.description }}</p>
+                    </div>
+                </div>
             </div>
             {% endif %}
             {% endfor %}
@@ -160,7 +285,7 @@ layout: default
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-md-3">
+                    <div class="col-md-2">
                         <span><i style="font-size:40px" class="fab fa-{{ project.language }}"></i></span>
                     </div>
                     <div class="col-md-9">
@@ -201,14 +326,39 @@ layout: default
             {% for project in site.projects %}
             {% if project.content-type == "resources" %}
             <div class="col-md-4">
-                <h2>
-                    <a class="post-link" href="{{ project.repolink }}">{{ project.title }}</a>
-                </h2>
-                <span><i style="font-size:40px" class="fab fa-{{ project.language }}"></i></span>
-                <a class="post-link" href="{{ project.repolink }}/star">
-                    <span><img src="https://img.shields.io/github/stars/{{ project.author }}/{{ project.repository }}?style=social" /></span>
-                </a>
-                <p style="margin-bottom:2px">{{ project.description }}</p>
+                <div class="row">
+                    <div class="col-md-12">
+
+                        <h2>
+                            <a class="post-link" href="{{ project.repolink }}">{{ project.title }}</a>
+                        </h2>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-2">
+                        <span><i style="font-size:40px" class="fab fa-{{ project.language }}"></i></span>
+                    </div>
+                    <div class="col-md-9">
+                        {% if project.repo == "github" %}
+                        <a class="post-link" href="{{ project.repolink }}/star">
+                            <span><i style="font-size:35px" class="fa fa-star"></i></span>
+                            <span id="{{ project.repo_title }}_count"><i style="font-size:40px"></i></span>
+                            <script>
+                                $(function () {
+                                    $.getJSON("https://api.github.com/repos/{{ project.author }}/{{ project.repo_title }}/stargazers", function (response) {
+                                        $("#{{ project.repo_title }}_count").text(response.length);
+                                    });
+                                });
+                            </script>
+                        </a>
+                        {% endif %}
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <p style="margin-bottom:2px">{{ project.description }}</p>
+                    </div>
+                </div>
             </div>
             {% endif %}
             {% endfor %}
