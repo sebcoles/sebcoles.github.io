@@ -152,9 +152,12 @@ layout: default
             {% if project.content-type == "scripts" %}
             <div class="col-md-4">
                 <div class="row">
-                    <h2>
-                        <a class="post-link" href="{{ project.repolink }}">{{ project.title }}</a>
-                    </h2>
+                    <div class="col-md-12">
+
+                        <h2>
+                            <a class="post-link" href="{{ project.repolink }}">{{ project.title }}</a>
+                        </h2>
+                    </div>
                 </div>
                 <div class="row">
                     <div class="col-md-4">
@@ -162,14 +165,16 @@ layout: default
                     </div>
                     <div class="col-md-8">
                         <a class="post-link" href="{{ project.repolink }}/star">
-                            <span><img src="https://img.shields.io/github/stars/{{ project.author }}/{{ project.repository }}?style=social" /></span>
+                            <span><img style="height:30px" src="https://img.shields.io/github/stars/{{ project.author }}/{{ project.repository }}?style=social" /></span>
                         </a>
                     </div>
                 </div>
                 <div class="row">
-                    <p style="margin-bottom:2px">{{ project.description }}</p>
+                    <div class="col-md-12">
+                        <p style="margin-bottom:2px">{{ project.description }}</p>
+                    </div>
                 </div>
-            </div>
+                </div>
             {% endif %}
             {% endfor %}
 
