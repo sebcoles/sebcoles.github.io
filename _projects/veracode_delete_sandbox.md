@@ -8,5 +8,5 @@ author-link: "https://github.com/christyson/"
 content-type: "scripts"
 language: "python"
 repo: "github"
-repo_title: "Veracode_Delete_Sandbox"_
+repo_title: "Veracode_Delete_Sandbox"
 ---

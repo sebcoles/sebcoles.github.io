@@ -166,7 +166,8 @@ layout: default
                     <div class="col-md-3">
                         {% if project.repo == "github" %}
                         <a class="post-link" href="{{ project.repolink }}/star">
-                            <span id="{{ project.repo_title }}_count"><i style="font-size:40px" class="fa fa-star"></i></span>
+                            <span><i style="font-size:40px" class="fa fa-star"></i></span>
+                            <span id="{{ project.repo_title }}_count"><i style="font-size:40px"></i></span>
                             <script>
                                 $(function () {
                                     $.getJSON("https://api.github.com/repos/{{ project.author }}/{{ project.repo_title }}/stargazers", function (response) {
