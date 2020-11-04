@@ -163,9 +163,16 @@ layout: default
                     <div class="col-md-4">
                         <span><i style="font-size:40px" class="fab fa-{{ project.language }}"></i></span>
                     </div>
-                    <div class="col-md-8">
+                    <div class="col-md-4">
                         <a class="post-link" href="{{ project.repolink }}/star">
-                            <span><img style="height:30px" src="https://img.shields.io/github/stars/{{ project.author }}/{{ project.repository }}?style=social" /></span>
+                            <span id="{{ project.title }}_count"><i style="font-size:40px" class="fab fa-star"></i></span>
+                            <script>
+                                $.ready(function () {                                
+                                    $.getJSON("https://api.github.com/repos/{{ project.author }}/{{ project.title }}/stargazers", function (response) {
+                                        $(".{{ project.title }}_count").text(response.length);
+                                    });
+                                });
+                            </script>
                         </a>
                     </div>
                 </div>
