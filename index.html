@@ -37,11 +37,11 @@ layout: default
                         {% if project.repo == "github" %}
                         <a class="post-link" href="{{ project.repolink }}/star">
                             <span><i style="font-size:35px" class="fa fa-star"></i></span>
-                            <span id="{{ project.repo_title }}_count"><i style="font-size:40px"></i></span>
+                            <span id="{{ project.repo_title | replace: ".", "" }}_count"><i style="font-size:40px"></i></span>
                             <script>
                                 $(function () {
                                     $.getJSON("https://api.github.com/repos/{{ project.author }}/{{ project.repo_title }}/stargazers", function (response) {
-                                        $("#{{ project.repo_title | replace: ".", "\\." }}_count").text(response.length);
+                                        $("#{{ project.repo_title | replace: ".", "" }}_count").text(response.length);
                                     });
                                 });
                             </script>
