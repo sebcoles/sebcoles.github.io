@@ -8,5 +8,5 @@ author-link: "https://github.com/psoladoye-geotab/"
 content-type: "ci/cd"
 language: "linux"
 repo: "github"
-repo_title: "bitrise-step-veracode-scan"_
+repo_title: "bitrise-step-veracode-scan"
 ---
