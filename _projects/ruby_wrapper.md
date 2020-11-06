@@ -1,12 +1,12 @@
 ---
 layout: post
-repolink: ""
-title: ""
-description: ""
-author: ""
-author-link: ""
-content-type: ""
-language: ""
-repo: ""
-repo_title: ""
+repolink: "https://github.com/mort666/veracode-api"
+title: "Ruby Wrapper"
+description: "Ruby Wrapper for the Veracode API."
+author: "mort666"
+author-link: "https://github.com/mort666"
+content-type: "sdk"
+language: "ruby"
+repo: "github"
+repo_title: "veracode-api"
 ---

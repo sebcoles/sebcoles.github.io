@@ -1,12 +1,11 @@
 ---
 layout: post
-repolink: ""
-title: ""
-description: ""
-author: ""
-author-link: ""
-content-type: ""
-language: ""
-repo: ""
-repo_title: ""
+repolink: "https://gitlab.com/buzzcode/SonarQube-Veracode"
+title: "SonarQube"
+description: "Unofficial Veracode plugin for SonarQube."
+author: "buzzcode"
+author-link: "https://gitlab.com/buzzcode"
+content-type: "results"
+language: "java"
+repo: "gitlab"
 ---
