@@ -1,11 +1,12 @@
 ---
 layout: post
-repolink: "https://gitlab.com/buzzcode/VSCode-Veracode"
-title:  "VeraDemo"
-description:  "Sample insecure application written in Java and Javascript, showing vulnerabilities in realistic Java code."
-author: "Jtsmith2020"
-author-link: "https://github.com/jtsmith2020/"
+repolink: "https://github.com/buzzcode/NodeGoat"
+title:  "NodeGoat"
+description:  "NodeGoat, built w/CircleCI, showing how to use a yaml file to scan w/Veracode."
+author: "Buzzcode"
+author-link: "https://github.com/buzzcode/"
 content-type: "resources"
-language: "java"
-repo: "gitlab"
+language: "node"
+repo: "github"
+repo_title: "NodeGoat"
 ---

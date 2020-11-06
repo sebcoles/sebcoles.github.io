@@ -7,5 +7,6 @@ author: "ctcampbell"
 author-link: "https://github.com/ctcampbell"
 content-type: "ci/cd"
 language: "linux"
-repo: "veracode-ci-examples"
+repo: "github"
+repo_title: "veracode-ci-examples"
 ---

@@ -8,6 +8,6 @@ author-link: "https://github.com/sebcoles"
 content-type: "sdk"
 language: "microsoft"
 repo: "github"
-repo_title: "veracode-tools"
+repo_title: "Veracode.OSS.Wrapper"
 ---
 

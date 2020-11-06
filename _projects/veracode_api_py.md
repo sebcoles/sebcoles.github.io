@@ -7,5 +7,6 @@ author: "tjarrettveracode"
 author-link: "https://github.com/tjarrettveracode"
 content-type: "sdk"
 language: "python"
-repo: "veracode-api-py"
+repo: "github"
+repo_title: "veracode-api-py"
 ---
