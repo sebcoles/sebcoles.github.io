@@ -41,7 +41,7 @@ layout: default
                             <script>
                                 $(function () {
                                     $.getJSON("https://api.github.com/repos/{{ project.author }}/{{ project.repo_title }}/stargazers", function (response) {
-                                        $("#{{ project.repo_title }}_count").text(response.length);
+                                        $("#{{ project.repo_title | replace: ".", "\\." }}_count").text(response.length);
                                     });
                                 });
                             </script>
@@ -254,7 +254,7 @@ layout: default
                             <script>
                                 $(function () {
                                     $.getJSON("https://api.github.com/repos/{{ project.author }}/{{ project.repo_title }}/stargazers", function (response) {
-                                        $("#{{ project.repo_title }}_count").text(response.length);
+                                        $("#{{ project.repo_title | replace: ".", "\\." }}_count").text(response.length);
                                     });
                                 });
                             </script>
