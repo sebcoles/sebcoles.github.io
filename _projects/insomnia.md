@@ -6,7 +6,7 @@ description: "Adds an HMAC authentication header to Veracode API requests in Ins
 author: "ctcampbell"
 author-link: "https://github.com/ctcampbell/"
 content-type: "sdk"
-language: "javascript"
+language: "js"
 repo: "github"
 repo_title: "insomnia-plugin-veracode-hmac"
 ---

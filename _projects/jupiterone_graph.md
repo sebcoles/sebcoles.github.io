@@ -6,7 +6,7 @@ description: "A graph conversion tool for Veracode."
 author: "JupiterOne"
 author-link: "https://github.com/JupiterOne"
 content-type: "results"
-language: "javascript"
+language: "js"
 repo: "github"
 repo_title: "graph-veracode"
 ---

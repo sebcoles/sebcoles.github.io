@@ -6,7 +6,7 @@ description: "Ruby Wrapper for the Veracode API."
 author: "mort666"
 author-link: "https://github.com/mort666"
 content-type: "sdk"
-language: "ruby"
+language: ""
 repo: "github"
 repo_title: "veracode-api"
 ---
