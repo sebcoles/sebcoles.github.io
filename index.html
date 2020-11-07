@@ -29,11 +29,11 @@ layout: default
                 </div>
                 <div class="row">
                     {% if project.language != "" %}
-                    <div class="col-md-2">
+                    <div class="col-xs-2">
                         <span><i style="font-size:40px" class="fab fa-{{ project.language }}"></i></span>
                     </div>
                     {% endif %}
-                    <div class="col-md-9">
+                    <div class="col-xs-9">
                         {% if project.repo == "github" %}
                         <a class="post-link" href="{{ project.repolink }}/star">
                             <span><i style="font-size:35px" class="fa fa-star"></i></span>
