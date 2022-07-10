@@ -1,5 +1,5 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
-
-/.vs
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
