@@ -1,3 +1,8 @@
+--- 
+layout: post title: "My Management Philosophy" 
+date: 2022-07-10 21:21:13 +0100 
+categories: management
+---
 # Management
 
 My belief is that management is about building high performance at an individual and team level. High performing individuals and teams deliver the right stuff, faster.
