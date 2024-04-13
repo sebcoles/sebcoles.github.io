@@ -2,6 +2,8 @@
 layout: page
 title: Career
 permalink: /career/
+image: assets/images/pic01.jpg
+nav-menu: true
 ---
 
 I'm a big fan of single page CVs, I've been using them for years. As a hiring manager, getting a short CV that is to the point and relevant to the role is much appreciated. However sometimes someone may wish to drill more into my roles, and thats what this page is for!

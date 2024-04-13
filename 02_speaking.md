@@ -2,6 +2,8 @@
 layout: page
 title: Speaking
 permalink: /speaking/
+image: assets/images/pic11.jpg
+nav-menu: true
 ---
 
 I enjoy sharing stories and insights from my adventures in DevSecOps transformation and organisational change for the benefit of protecting customer data. I like my talks to be accessible to everyone, so they tend not to be technical and focus on the social skills required to make an impact. I cover topics such as Change Management, Leadership, Influence and Building Great Teams. Below are some of the links and presentations I have given in the past. If you feel the content of my talks would benefit your speaking event or organisation - lets chat!
