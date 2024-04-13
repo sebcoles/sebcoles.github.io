@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Career
 permalink: /career/
 image: assets/images/pic01.jpg

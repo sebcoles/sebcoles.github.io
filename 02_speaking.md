@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Speaking
 permalink: /speaking/
 image: assets/images/pic11.jpg
