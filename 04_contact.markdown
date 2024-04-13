@@ -4,4 +4,6 @@ title: Contact
 permalink: /contact/
 ---
 
-My name is Seb Coles and I help organisations reduce the risk of software being used as an attack vector for cybercrime. I assess an organisations engineering practises, conduct gap and system analysis, build and fund roadmaps to mature cyber controls in the SDLC and to transform cultures to embed security as part of the building a quality product. My forte is scale up companies that need to mature quickly, but my experience has covered Defense, Retail, Banking and FinTech.
+The best place to get in touch with me is [My LinkedIn Profile](https://www.linkedin.com/in/sebastiancoles/) or you can drop me an email at [seb_coles@outlook.com](mailto:seb_coles@outlook.com).
+
+Please do <b>not</b> get in touch with me if your a security vendor or a recruitment person who has no role to discuss, sorry!
