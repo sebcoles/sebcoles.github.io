@@ -1,7 +1,7 @@
 ---
 layout: allposts
 title: Blog
-landing-title: 'blog'
+permalink: /blog/
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
