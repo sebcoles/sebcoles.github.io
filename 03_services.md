@@ -2,7 +2,7 @@
 layout: post
 title: Services
 permalink: /services/
-image: assets/images/pic01.jpg
+image: assets/images/pic09.jpg
 nav-menu: true
 ---
 

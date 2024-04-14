@@ -2,7 +2,7 @@
 layout: allposts
 title: Blog
 permalink: /blog/
-image: assets/images/pic01.jpg
+image: assets/images/pic08.jpg
 nav-menu: true
 ---
 

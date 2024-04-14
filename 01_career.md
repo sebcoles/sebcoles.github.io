@@ -2,6 +2,7 @@
 layout: post
 title: Career
 permalink: /career/
+image: assets/images/mtl.jpg
 nav-menu: true
 ---
 
