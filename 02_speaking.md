@@ -68,7 +68,3 @@ My first "proper" conference presentation where I had a lecture theatre and a fi
 A 5 minute lightening talk I presented on developer threat modelling - a way of fitting threat modelling into a sprint cadence that we embedded at the Hydrographic Office. Fun Fact: I was up till 3am the night before walking my 1 year old daughter around the hotel lobby as she wouldn't sleep. Kids.
 
 [![profile pic](/assets/images/cyberuk_deck.png)](/assets/decks/dtm_cyberuk_2019.pptx "Video Title")
-
-
-
-
