@@ -7,6 +7,22 @@ nav-menu: true
 show_tile: false
 ---
 
-The best place to get in touch with me is [My LinkedIn Profile](https://www.linkedin.com/in/sebastiancoles/) or you can drop me an email at [seb_coles@outlook.com](mailto:seb_coles@outlook.com).
+The best place to get in touch with me is [My LinkedIn Profile](https://www.linkedin.com/in/sebastiancoles/) or you can drop me an email at [seb_coles@outlook.com](mailto:seb_coles@outlook.com) or complete the below contact form.
+
+<form
+  action="https://formspree.io/f/mnqellgp"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
 
 Please do <b>not</b> get in touch with me if your a security vendor or a recruitment person who has no role to discuss, sorry!
