@@ -1,7 +1,7 @@
 ---
 layout: allposts
-title: Blog
-permalink: /blog/
+title: Posts
+permalink: /posts/
 image: assets/images/pic08.jpg
 nav-menu: true
 ---
