@@ -2,7 +2,7 @@
 layout: allposts
 title: Posts
 permalink: /posts/
-image: assets/images/pic08.jpg
+image: assets/images/sophos.jpg
 nav-menu: true
 ---
 
