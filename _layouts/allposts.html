@@ -18,7 +18,7 @@
             <h1>About Me</h1>
           </header>
           {% for post in site.posts %}
-          {% if post.category == "about-me" %}
+          {% if post.categories == "about-me" %}
             <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
             <p>{{ post.summary }}</p>
           {% endif %}
@@ -32,7 +32,7 @@
             <h1>Management and Leadership</h1>
           </header>
           {% for post in site.posts %}
-          {% if post.category == "management-and-leadership" %}
+          {% if post.categories == "management-and-leadership" %}
             <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
             <p>{{ post.summary }}</p>
           {% endif %}
@@ -46,7 +46,7 @@
             <h1>DevSecOps</h1>
           </header>
           {% for post in site.posts %}
-          {% if post.category == "devsecops" %}
+          {% if post.categories == "devsecops" %}
             <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
             <p>{{ post.summary }}</p>
           {% endif %}
@@ -60,7 +60,7 @@
             <h1>Information Security</h1>
           </header>
           {% for post in site.posts %}
-          {% if post.category == "information-security" %}
+          {% if post.categories == "information-security" %}
             <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
             <p>{{ post.summary }}</p>
           {% endif %}
@@ -74,7 +74,7 @@
             <h1>Engineering</h1>
           </header>
           {% for post in site.posts %}
-          {% if post.category == "engineering" %}
+          {% if post.categories == "engineering" %}
             <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
             <p>{{ post.summary }}</p>
           {% endif %}
