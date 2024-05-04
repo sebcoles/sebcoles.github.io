@@ -44,12 +44,14 @@ Responsible for full stack development, technical product ownership and delivery
 Gartner Market Leaders in application security testing, providing a comprehensive suite of automated tools and security services.
 
 <b>Senior Application Security Consultant | Feb 2020 - Jan 2021</b>
+
 Consultant with a Gartner Application Security Testing (AST) Leader providing security remediation consultancy to Teir 2 banking clients internationally. I also built opensource integrations to reduce friction when using Veracode security tooling and was active in the Veracode Community.
 
 # Clarks
 International shoe retailer, founded and headquartered in Street, UK. The Clarks ecommerce platforms alone generated over 1 million revenue daily.
 
 <b>Application Security Engineer | Nov 2019 - Feb 2020</b>
+
 As part of the leadership team for IT Security and Digital Engineering, I was the start of the application security capability at Clarks. Supporting 60 engineers in building secure products and the safety of a multimillion eCommerce platform. Responsible for building & running an app sec programme, implementation of SAST (Coverity) and SCA (BlackDuck), DAST (ImmuniWeb), eLearning (Synopsys) and managing pen test engagements.
 
 
@@ -57,19 +59,23 @@ As part of the leadership team for IT Security and Digital Engineering, I was th
 UKHO is a trading arm of the ministry of defence and is part of the civil service, focusing on maritime charts and safety of life at sea.
 
 <b>Lead Software Engineer | Aug 2018 - Nov 2019</b>
+
 Responsible for x2 delivery teams, ensuring product quality and timely delivery for GIS and data services. Additional line management responsibilities with engineers outside of my delivery teams. Recognized as an expert in application security, tasked with improving standards across 8 mixed technology teams. Running a programme of improvement such as education, introducing threat modelling, adoption of SAST and DAST technologies and chairing a security champions initiative.
 
 <b>Senior Software Engineer | Sep 2017 - Aug 2018</b>
+
 DV cleared software engineer building GIS software in Python, C# and JavaScript. Responsible for full stack development and security advisory to support our Navy client.
 
 # Xeretec
 Xeretec is a Xerox channel partner, providing print, managed print services and solutions.
 
 <b>Senior Software Engineer | Aug 2016 - Sep 2017</b>
+
 Responsible for building software development capability at Xeretec. Took the team up to x4 engineers, responsible for hiring and performance development. Took to market a BI solution enabling customers to reduce print costs, and building a support suite of applications for print devices and scaling it across a print fleet of 12,000.
 
 # Marine Technical Limits
 MTL is an asset integrity and repair company specializing in FPSOs
 
 <b>Software Engineer | Feb 2015 - Aug 2016</b>
+
 Software engineer building virtual reality offshore training in Unity3D and the Oculus rift. Responsible for full stack development.
