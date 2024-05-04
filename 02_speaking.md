@@ -62,7 +62,6 @@ In this talk I implore that need for shared language and education when it comes
 
 My first "proper" conference presentation where I had a lecture theatre and a filled room. Really enjoyed it and exeter uni was a great venue, I actually got a speakers gift from this event of a locking pick set and sunglasses. I discuss running an AppSec project at the hydro and how security is a people problem.
 
-<b>Developer Threat Modelling</b>
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/uSVafyXxo9k/0.jpg)](https://www.youtube.com/watch?v=uSVafyXxo9k "Video Title")
 
 # CyberUK (2019) - Glasgow
