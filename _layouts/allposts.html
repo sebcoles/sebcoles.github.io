@@ -73,11 +73,9 @@
           <header class="major">
             <h1>Engineering</h1>
           </header>
-          {% for post in site.posts %}
-          {% if post.categories == 'engineering' %}
+          {% for post in site.categories.engineering %}
             <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
             <p>{{ post.summary }}</p>
-          {% endif %}
           {% endfor %}
         </div>
       </section>
