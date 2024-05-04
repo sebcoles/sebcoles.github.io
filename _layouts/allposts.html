@@ -13,17 +13,73 @@
 
       <!-- One -->
       <section id="one">
-	<div class="inner">
+        <div class="inner">
+          <header class="major">
+            <h1>About Me</h1>
+          </header>
           {% for post in site.posts %}
-	  {% if post.title != 404 %}
-	  <header class="major">
-	    <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-	  </header>
-	  {% if post.date %}<p>{{ post.date }}</p>{% endif %}
-	  <p>{{ post.content }}</p>
-	  {% endif %}
+          {% if post.title != 404 and post.category == "about-me" %}
+            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+            <p>{{ post.summary }}</p>
+          {% endif %}
           {% endfor %}
-	</div>
+        </div>
+      </section>
+
+      <section id="one">
+        <div class="inner">
+          <header class="major">
+            <h1>Management and Leadership</h1>
+          </header>
+          {% for post in site.posts %}
+          {% if post.title != 404 and post.category == "management-and-leadership" %}
+            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+            <p>{{ post.summary }}</p>
+          {% endif %}
+          {% endfor %}
+        </div>
+      </section>
+
+      <section id="one">
+        <div class="inner">
+          <header class="major">
+            <h1>DevSecOps</h1>
+          </header>
+          {% for post in site.posts %}
+          {% if post.title != 404 and post.category == "devsecops" %}
+            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+            <p>{{ post.summary }}</p>
+          {% endif %}
+          {% endfor %}
+        </div>
+      </section>
+
+      <section id="one">
+        <div class="inner">
+          <header class="major">
+            <h1>Information Security</h1>
+          </header>
+          {% for post in site.posts %}
+          {% if post.title != 404 and post.category == "information-security" %}
+            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+            <p>{{ post.summary }}</p>
+          {% endif %}
+          {% endfor %}
+        </div>
+      </section>
+
+      <section id="one">
+        <div class="inner">
+          <header class="major">
+            <h1>Engineering</h1>
+          </header>
+          {% for post in site.posts %}
+          {% if post.title != 404 and post.category == "engineering" %}
+            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+            <p>{{ post.summary }}</p>
+          {% endif %}
+          {% endfor %}
+        </div>
       </section>
 
     </div>

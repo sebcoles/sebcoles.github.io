@@ -1,3 +1,11 @@
+---  
+layout: post 
+title: "Psychological Safety" 
+date:   2024-04-23
+categories: management-and-leadership
+summary: This post discusses the role psychological safety plays when building high performance teams.
+---
+
 # Psychological Safety
 
 When we feel safe we can make rational decisions. We can be authentic and provide honest feedback. The state of feeling safe is required to perform individually and with peers. Feeling safe is a scale that fluctuates with every meeting and the people involved. We must recognise the power of safety and prepare for enabling it within ourselves and others.

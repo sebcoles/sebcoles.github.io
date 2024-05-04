@@ -4,6 +4,7 @@ title:  "About LRQA"
 date:   2024-04-23
 categories: supporting-me
 image: assets/images/lrqa_logo.jpeg
+summary: This is a post about LRQA
 ---
 
 <b>LRQA</b> is a leading global assurance partner. They bring together unrivalled expertise in certification, brand assurance, cybersecurity, inspection and training.

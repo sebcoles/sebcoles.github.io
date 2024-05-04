@@ -1,8 +1,9 @@
 ---  
 layout: post 
 title: "My Management Philosophy" 
-date: 2022-07-10 21:21:13 +0100 
-categories: management
+date:   2024-04-23
+categories: management-and-leadership
+summary: This post talks through my management philosophy
 ---
 
 # Management
