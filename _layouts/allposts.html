@@ -17,11 +17,9 @@
           <header class="major">
             <h1>About Me</h1>
           </header>
-          {% for post in site.posts %}
-          {% if post.categories == 'about-me' %}
+          {% for post in site.categories.about-me %}
             <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
             <p>{{ post.summary }}</p>
-          {% endif %}
           {% endfor %}
         </div>
       </section>
@@ -31,11 +29,9 @@
           <header class="major">
             <h1>Management and Leadership</h1>
           </header>
-          {% for post in site.posts %}
-          {% if post.categories == 'management-and-leadership' %}
+          {% for post in site.categories.management-and-leadership %}
             <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
             <p>{{ post.summary }}</p>
-          {% endif %}
           {% endfor %}
         </div>
       </section>
@@ -45,11 +41,9 @@
           <header class="major">
             <h1>DevSecOps</h1>
           </header>
-          {% for post in site.posts %}
-          {% if post.categories == 'devsecops' %}
+          {% for post in site.categories.devsecops %}
             <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
             <p>{{ post.summary }}</p>
-          {% endif %}
           {% endfor %}
         </div>
       </section>
@@ -59,11 +53,9 @@
           <header class="major">
             <h1>Information Security</h1>
           </header>
-          {% for post in site.posts %}
-          {% if post.categories == 'information-security' %}
+          {% for post in site.categories.information-security %}
             <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
             <p>{{ post.summary }}</p>
-          {% endif %}
           {% endfor %}
         </div>
       </section>
