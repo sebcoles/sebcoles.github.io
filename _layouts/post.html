@@ -5,34 +5,52 @@
 
 <body>
 
-    {% include header.html %} 
-    
-    
-<!-- Main -->
-<div id="main" class="alt">
+	{% include header.html %}
 
-<!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h1>{{ page.title }}</h1>
-		</header>
-		{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
-		{{ content }}
+
+	<!-- Main -->
+	<div id="main" class="alt">
+
+		<!-- One -->
+		<section id="one">
+			<div class="inner">
+				<header class="major">
+					<h1>{{ page.title }}</h1>
+				</header>
+				{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}"
+						alt="" /></span>{% endif %}
+				{{ content }}
+			</div>
+		</section>
+
+		<!-- Two -->
+		<section id="two">
+			<div class="inner">
+				</hr>
+				If you like what you read, please consider <b>supporting me</b> and there are a few ways to do this!
+				<ul>
+					<li>
+						If I can be of value to your organisation considering viewing the security and speaking <a
+							href="/services">services I offer </a> <i class="fa fa-rocket"></i>
+					</li>
+					<li>
+						If you are interested in LRQA services, considering letting me <a
+							href="/supporting-me/2024/04/23/about-lrqa.html">make an introduction </a><i
+							class="fa fa-info-circle"></i>
+					</li>
+					<li>
+						or perhaps consider just <a href="/supporting-me/2024/04/23/buy-me-a-coffee.html">buying me a
+							coffee </a><i class="fa fa-coffee"></i>
+					</li>
+
+				</ul>
+
+			</div>
+		</section>
+
 	</div>
-</section>
 
-<!-- Two -->
-<section id="two">
-	<div class="inner">
-	</hr>
-			</div>If you like what you read, please consider <b>supporting me</b> and there are a few ways to do this! If I can be of value to your organisation considering viewing the security and speaking <a href="/services">services I offer </a><i class="fa fa-rocket"></i>. If you are interested in LRQA services, considering letting me <a href="/supporting-me/2024/04/23/about-lrqa.html">make an introduction </a><i class="fa fa-info-circle"></i>, or perhaps consider just <a href="/supporting-me/2024/04/23/buy-me-a-coffee.html">buying me a coffee </a><i class="fa fa-coffee"></i> 
-
-</section>
-
-</div>
-
-    {% include footer.html %}
+	{% include footer.html %}
 
 </body>
 
