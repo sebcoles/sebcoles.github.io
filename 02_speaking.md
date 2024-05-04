@@ -10,7 +10,7 @@ I enjoy sharing stories and insights from my adventures in DevSecOps transformat
 
 # National Cyber Security Show (2024) - Birmingham
 
-<b>Leadership and Change in DevSecOps</b>
+<b>Tools are not the Answer - Leadership and Change in DevSecOps</b>
 
 This session was at the NEC in Birmingham, my talk covered Kotter's 8 steps for change in a DevSecOps format, stakeholder management, influence and status games in technology.
 

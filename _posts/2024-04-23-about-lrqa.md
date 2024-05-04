@@ -20,13 +20,15 @@ Services you might be interested in could be:
 - Offensive security such as Red Teams and Penetration Testing
 - Defensive cybersecurity services such as CISO consultancy and managed SOC services
 
-You can read about the full suite of LRQA services at [www.lrqa.com](www.lrqa.com). LRQA operate an internal employee referral scheme so if your interested in LRQA services (and want to support my work) I would appreciate it if you would let me connect you with the right people by dropping me a note below or emailing me at [seb_coles:outlook.com](mailto:seb_coles@outlook.com)!
+You can read about the full suite of LRQA services at [www.lrqa.com](www.lrqa.com). LRQA operate an internal employee referral scheme so if your interested in LRQA services (and want to support my work) I would appreciate it if you would let me connect you with the right people by dropping me a note below or emailing me at [seb_coles@outlook.com](mailto:seb_coles@outlook.com)!
 
 <form id="my-form" action="https://formspree.io/f/mnqellgp" method="POST">
   <label>Your Email:</label>
   <input type="email" name="email" />
+  </br>
   <label>What LRQA services are you interested in?:</label>
-  <input type="text" name="message" />
+  <input type="textarea" name="message" />
+  </br>
   <button id="my-form-button">Submit</button>
   <p id="my-form-status"></p>
 </form>
