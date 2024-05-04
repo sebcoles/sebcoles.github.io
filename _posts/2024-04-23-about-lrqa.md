@@ -25,10 +25,8 @@ You can read about the full suite of LRQA services at [www.lrqa.com](www.lrqa.co
 <form id="my-form" action="https://formspree.io/f/mnqellgp" method="POST">
   <label>Your Email:</label>
   <input type="email" name="email" />
-  </br>
   <label>What LRQA services are you interested in?:</label>
-  <input type="textarea" name="message" />
-  </br>
+  <textarea name="message"></textarea>
   <button id="my-form-button">Submit</button>
   <p id="my-form-status"></p>
 </form>
