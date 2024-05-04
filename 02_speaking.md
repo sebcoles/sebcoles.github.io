@@ -14,11 +14,15 @@ I enjoy sharing stories and insights from my adventures in DevSecOps transformat
 
 This session was at the NEC in Birmingham, my talk covered Kotter's 8 steps for change in a DevSecOps format, stakeholder management, influence and status games in technology.
 
+[![profile pic](/assets/images/ncss_thumbnail.png)](/assets/decks/conference_2024_ncss.pptx "Video Title")
+
 # UK Cyber Week (2024) - London
 
 <b>Leadership and Change in DevSecOps</b>
 
 This session was at the NEC in Birmingham, my talk covered Kotter's 8 steps for change in a DevSecOps format, stakeholder management, influence and status games in technology. I got to share a stage with Kevin Fielder on this one, very cool.
+
+[![profile pic](/assets/images/ukcyberweek_thumbnail.png)](/assets/decks/conference_2024_ukcyberweek.pptx "Video Title")
 
 # BSides Bristol (2023) - Bristol
 
