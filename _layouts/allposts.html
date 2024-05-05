@@ -19,10 +19,10 @@
           </header>
           {% for post in site.categories.about-me %}
           <a href="{{ post.url }}">
-            <div style="border: 1px solid #ccc; border-radius: 16px; padding: 15px">
-              <b>{{ post.title }}</b>
+            <div class="blog-tile">
+              <b>{{ post.date | date: "%-d %B %Y" }} {{ post.title }}</b>
               <p>{{ post.summary }}</p>
-              <p>{{ post.date | date: "%-d %B %Y" }}</p>
+              <p></p>
             </div>
           </a>
           {% endfor %}
