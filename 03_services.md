@@ -2,7 +2,7 @@
 layout: post
 title: Services
 permalink: /services/
-image: assets/images/seb-18.jpg
+image: assets/images/ddd_speaking_cropped.jpeg
 nav-menu: true
 ---
 

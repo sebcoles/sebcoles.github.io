@@ -2,7 +2,7 @@
 layout: post
 title: Speaking
 permalink: /speaking/
-image: assets/images/speaking.jpg
+image: assets/images/speaking_cropped.png
 nav-menu: true
 ---
 
