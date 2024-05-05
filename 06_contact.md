@@ -22,7 +22,7 @@ Or you can complete the below form to send me a message!
   <input type="email" name="email" />
   <label>Your Message:</label>
   <textarea name="message"></textarea>
-  <button id="my-form-button">Submit</button>
+  <button style="margin-top:15px" id="my-form-button">Submit</button>
   <p id="my-form-status"></p>
 </form>
 <!-- Place this script at the end of the body tag -->
