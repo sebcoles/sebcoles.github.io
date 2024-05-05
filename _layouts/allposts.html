@@ -19,7 +19,7 @@
           </header>
           {% for post in site.categories.about-me %}
           <a href="{{ post.url }}">
-            <h2>{{ post.title }}</h2>
+            <h3>{{ post.title }}</h2>
             <p>{{ post.summary }}</p>
           </a>
           {% endfor %}
@@ -33,7 +33,7 @@
           </header>
           {% for post in site.categories.management-and-leadership %}
           <a href="{{ post.url }}">
-            <h2>{{ post.title }}</h2>
+            <h3>{{ post.title }}</h2>
             <p>{{ post.summary }}</p>
           </a>
           {% endfor %}
@@ -47,7 +47,7 @@
           </header>
           {% for post in site.categories.devsecops %}
           <a href="{{ post.url }}">
-            <h2>{{ post.title }}</h2>
+            <h3>{{ post.title }}</h2>
             <p>{{ post.summary }}</p>
           </a>
           {% endfor %}
@@ -61,7 +61,7 @@
           </header>
           {% for post in site.categories.information-security %}
           <a href="{{ post.url }}">
-            <h2>{{ post.title }}</h2>
+            <h3>{{ post.title }}</h2>
             <p>{{ post.summary }}</p>
           </a>
           {% endfor %}
@@ -74,10 +74,13 @@
             <h1>Engineering</h1>
           </header>
           {% for post in site.categories.engineering %}
-          <a href="{{ post.url }}">
-            <h2>{{ post.title }}</h2>
-            <p>{{ post.summary }}</p>
-          </a>
+            <a href="{{ post.url }}">
+              <div style="border: 1px solid #ccc; border-radius: 16px">
+                <h3>{{ post.title }}</h2>
+                <p>{{ post.summary }}</p>
+                <p>{{ post.date }}</p>
+              </div>
+            </a>
           {% endfor %}
         </div>
       </section>
