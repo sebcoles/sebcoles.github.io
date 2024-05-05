@@ -7,3 +7,5 @@
 .blog-tile:hover {
     background-color: #42d3f3
 }
+
+a { color: inherit; } 
