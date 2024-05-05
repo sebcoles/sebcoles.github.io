@@ -34,12 +34,10 @@
             <h1>Management and Leadership</h1>
           </header>
           {% for post in site.categories.management-and-leadership %}
-          <a href="{{ post.url }}">
-            <div class="blog-tile">
-              <b>{{ post.date | date: "%-d %B %Y" }} - {{ post.title }}</b>
-              <p>{{ post.summary }} <i>[{{ post.content | size }} words]</i></p>
-            </div>
-          </a>
+          <div class="blog-tile" onclick="window.location.href='{{ post.url }}';">
+            <b>{{ post.date | date: "%-d %B %Y" }} - {{ post.title }}</b>
+            <p>{{ post.summary }} <i>({{ post.content | size }} words)</i></p>
+          </div>
           {% endfor %}
         </div>
       </section>
@@ -50,12 +48,10 @@
             <h1>DevSecOps</h1>
           </header>
           {% for post in site.categories.devsecops %}
-          <a href="{{ post.url }}">
-            <div class="blog-tile">
-              <b>{{ post.date | date: "%-d %B %Y" }} - {{ post.title }}</b>
-              <p>{{ post.summary }} <i>[{{ post.content | size }} words]</i></p>
-            </div>
-          </a>
+          <div class="blog-tile" onclick="window.location.href='{{ post.url }}';">
+            <b>{{ post.date | date: "%-d %B %Y" }} - {{ post.title }}</b>
+            <p>{{ post.summary }} <i>({{ post.content | size }} words)</i></p>
+          </div>
           {% endfor %}
         </div>
       </section>
@@ -66,12 +62,10 @@
             <h1>Information Security</h1>
           </header>
           {% for post in site.categories.information-security %}
-          <a href="{{ post.url }}">
-            <div class="blog-tile">
+            <div class="blog-tile" onclick="window.location.href='{{ post.url }}';">
               <b>{{ post.date | date: "%-d %B %Y" }} - {{ post.title }}</b>
-              <p>{{ post.summary }} <i>[{{ post.content | size }} words]</i></p>
+              <p>{{ post.summary }} <i>({{ post.content | size }} words)</i></p>
             </div>
-          </a>
           {% endfor %}
         </div>
       </section>
@@ -84,7 +78,7 @@
           {% for post in site.categories.engineering %}
             <div class="blog-tile" onclick="window.location.href='{{ post.url }}';">
               <b>{{ post.date | date: "%-d %B %Y" }} - {{ post.title }}</b>
-              <p>{{ post.summary }} <i>[{{ post.content | size }} words]</i></p>
+              <p>{{ post.summary }} <i>({{ post.content | size }} words)</i></p>
             </div>
           {% endfor %}
         </div>
