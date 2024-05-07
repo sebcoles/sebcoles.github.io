@@ -2,7 +2,7 @@
 layout: post 
 title: "Psychological Safety" 
 date:   2024-04-23
-categories: management-and-leadership
+categories: draft
 summary: This post discusses the role psychological safety plays when building high performance teams.
 ---
 

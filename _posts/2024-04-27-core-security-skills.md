@@ -2,7 +2,7 @@
 layout: post 
 title: "Core Information Security Skills" 
 date:   2024-04-23
-categories: devsecops
+categories: draft
 summary: This post discusses the core information security skills I believe one needs to excel.
 ---
 

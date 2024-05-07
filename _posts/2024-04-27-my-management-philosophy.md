@@ -2,7 +2,7 @@
 layout: post 
 title: "My Management Philosophy" 
 date:   2024-04-23
-categories: management-and-leadership
+categories: draft
 summary: This post talks through my management philosophy
 ---
 
