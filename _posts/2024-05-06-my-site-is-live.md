@@ -6,8 +6,6 @@ categories: news
 summary: A short post about why I have put together a website and what content to expect.
 ---
 
-# My site is live!
-
 Hello Reader! 
 
 Thanks for viewing my website. After presenting at a few conferences I have decided to try and write a few articles that go into greater depth and background on the leadership, change and management topics I present in the context of DevSecOps.
