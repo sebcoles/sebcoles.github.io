@@ -24,5 +24,5 @@ I have used many tools in this space, if you are building a product or service i
 | --- | --- |
 | Initial 30 minute consultation | Free |
 | Ad-Hoc Consultancy (hourly rate) | £550 |
-| Typical Work Package (hourly rate) | £350|
-| 30 minute speaking session (tailored) + Q&A | £1250 + Travel Time + Expenses |
+| Typical Work Package (hourly rate) | ~£350|
+| 40-60 minute speaking session (tailored) + Q&A | £850 + Travel Time + Expenses |

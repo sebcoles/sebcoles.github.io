@@ -58,5 +58,3 @@ Or you can complete the below form to send me a message!
     }
     form.addEventListener("submit", handleSubmit)
 </script>
-
-Please do <b>not</b> get in touch with me if your a security vendor or a recruitment person who has no role to discuss, sorry!

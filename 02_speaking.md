@@ -23,12 +23,16 @@ This session was at the NEC in Birmingham, my talk covered Kotter's 8 steps for 
 
 [![profile pic](/assets/images/ncss_thumbnail.png)](/assets/decks/conference_2024_ncss.pptx "Video Title")
 
+This was an interesting conference, it was shared with physical security and fire safety exhibitors, and was busy. It was nice to have all the seats filled and an opportunity to practice having my microphone and clicky-clicky fail during the talk.
+
 ## April 2-24 - UK Cyber Week - London
 ### Leadership and Change in DevSecOps
 
-This session was at the NEC in Birmingham, my talk covered Kotter's 8 steps for change in a DevSecOps format, stakeholder management, influence and status games in technology. I got to share a stage with Kevin Fielder on this one, very cool.
+This session was at the NEC in Birmingham, my talk covered Kotter's 8 steps for change in a DevSecOps format, stakeholder management, influence and status games in technology.
 
 [![profile pic](/assets/images/ukcyberweek_thumbnail.png)](/assets/decks/conference_2024_ukcyberweek.pptx "Video Title")
+
+I got to share a stage with Kevin Fielder and Jake Moore on this one, very cool. 
 
 ## November 2023 - BSides Bristol - Bristol
 ### DevSecOps Leadership - Zero to Hero
@@ -61,16 +65,22 @@ In this talk I implore that need for shared language and education when it comes
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/aPA6nbGATKc/0.jpg)](https://www.youtube.com/watch?v=aPA6nbGATKc "Video Title")
 
+The Bristech conferences were some of the most well organized conferences I have been too, and I got a nice Bristech T-Shirt for speaking.
+
 ## September 2019 - TechExeter - Exeter
 ### Developer Threat Modelling
 
-My first "proper" conference presentation where I had a lecture theatre and a filled room. Really enjoyed it and exeter uni was a great venue, I actually got a speakers gift from this event of a locking pick set and sunglasses. I discuss running an AppSec project at the hydro and how security is a people problem.
+My first "proper" conference presentation where I had a lecture theatre and a filled room. I discuss running an AppSec project at the hydro and how security is a people problem.
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/uSVafyXxo9k/0.jpg)](https://www.youtube.com/watch?v=uSVafyXxo9k "Video Title")
+
+Really enjoyed it and exeter uni business school was a great venue, I actually got a speakers gift from this event of a locking pick set and sunglasses. 
 
 ## May 2019 - CyberUK - Glasgow
 ### Developer Threat Modelling
 
-A 5 minute lightening talk I presented on developer threat modelling - a way of fitting threat modelling into a sprint cadence that we embedded at the Hydrographic Office. Fun Fact: I was up till 3am the night before walking my 1 year old daughter around the hotel lobby as she wouldn't sleep. Kids.
+A 5 minute lightening talk I presented on developer threat modelling - a way of fitting threat modelling into a sprint cadence that we embedded at the Hydrographic Office. 
 
 [![profile pic](/assets/images/cyberuk_deck.png)](/assets/decks/dtm_cyberuk_2019.pptx "Video Title")
+
+Fun Fact: I was up till 3am the night before walking my 1 year old daughter around the hotel lobby as she wouldn't sleep. Kids.
