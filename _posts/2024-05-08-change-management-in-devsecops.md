@@ -115,10 +115,7 @@ The final part of the steps for change is being able to make the system continue
 In the post we touched in how we could use Shein's Three Level Culture Model to help assess the culture of a team, function, or organisation. The model does not provide any answers but can help us gain insights into how we might try and nudge a team on the path to secure development. We also looked at Kotter's 8 Steps for change and how they can be applied to a DevSecOps transformation. My hope was to give you an overview and with time we can explore each step-in detail with future posts. I hope that was useful and interesting, thanks for reading! Seb
 
 ## References
-Kotter, J., 1999. What Leaders Really Do, 1st Edition, Harvard Business School, 1999
-
-McKinsey, 2015. Changing change management. Available from: https://www.mckinsey.com/featured-insights/leadership/changing-change-management [Accessed 08/05/2024]. [Online].
-
-Pink, D., 2018. Drive: The Surprising Truth About What Motivates Us, Canongate Books.
-
-Schein, E.H. (1985) Organizational culture and leadership, San Francisco: Jossey-Bass Publishers.
+- Kotter, J., 1999. What Leaders Really Do, 1st Edition, Harvard Business School, 1999
+- McKinsey, 2015. Changing change management. Available from: https://www.mckinsey.com/featured-insights/leadership/changing-change-management [Accessed 08/05/2024]. [Online].
+- Pink, D., 2018. Drive: The Surprising Truth About What Motivates Us, Canongate Books.
+- Schein, E.H. (1985) Organizational culture and leadership, San Francisco: Jossey-Bass Publishers.
