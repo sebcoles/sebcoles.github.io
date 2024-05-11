@@ -1,10 +1,18 @@
 ---  
 layout: post 
-title: "An Introduction to Organisational Change Management" 
-date:   2024-04-23
+title: "An Introduction to Organisational Change Management in the context of DevSecOps" 
+date:   2024-05-08
 categories: management-and-leadership
-summary: This is an introductory post to the topic of organisational change management and how it can be applied to DevSecOps.
+summary: This is an introductory post to the topic of organisational change management and how it can be applied to DevSecOps covering Sheins Three Level Culture Model and Kotters 8 Steps for Change.
 ---
+
+<meta property='og:title' content='An Introduction to Organisational Change Management in the context of DevSecOps'/>
+<meta property='og:image' content='https://sebcoles.github.io/assets/images/change_management_2024_may.jpg'/>
+<meta property='og:description' content='This is an introductory post to the topic of organisational change management and how it can be applied to DevSecOps covering Sheins Three Level Culture Model and Kotters 8 Steps for Change'/>
+<meta property='og:url' content='https://sebcoles.github.io/management-and-leadership/2024/05/08/change-management-in-devsecops.html'/>
+
+![profile pic](/assets/images/change_management_may_2024.jpg)
+
 
 ## Introduction
 In this post I will give an overview of what Change Management is and two frameworks I have used in the past to help me make an impact with DevSecOps. The first is the Three Level Culture Model by Edgar Shein which can enable simple assessments of culture and helps you understand your playing field. The second is Kotter’s 8 Steps for Change by John Kotter, this one I have included in my conference talks, it is a great simple model to understand the extra activities and ordering of a change programme. Understanding and learning about <i>Change</i> is vital to any transformation project and I hope you find this of value. 
