@@ -37,7 +37,7 @@ Finally, we have the murky underworld of <b>Basic Underlying Assumptions</b> whi
 ### In the Context of DevSecOps?
 The Three Level Culture Model can be used against any magnitude of social structure, such as a development team. The reason you want to do this is to enable insights into how you might influence and nudge the team as part of your DevSecOps transformation. All teams have subcultures, and a big mistake would be to have a one size fits all approach to change. For example!
 
-<b>Engineering Team - Terrific Tigers</b>
+<b>Engineering Team - Alpha</b>
 
 <i>Artifacts</i> could be the team logo, such as a tiger, the vocal and opinionated presence in teams’ calls, the general sense of grandiosity and looking down on other teams. These are artifacts because the evidence is visible to those who are not part of this social fabric and are projected by the team, you can receive these signals easily.
 
@@ -53,7 +53,7 @@ I will stress, the point of this exercise is not to apply a judgement to a team�
 
 Frameworks do not provide answers, they just structure your thinking to uncover insights which can be used to inform an approach to dealing with the team’s culture. Can you see how some of these insights might change how I roll out a security tool to this team?
 
-<b>Engineering Team - Fantastic Foxes</b>
+<b>Engineering Team - Team Beta</b>
 
 <i>Artifacts</i> In this case the team have an extremely limited presence, little to no intentional signals, but there are other clues we can look to. They do not participate in group calls, they never speak up, cameras are always off for this team. The team are frequently placed last in statistics - either on number of incidents, security issues, technical debt etc. Getting a response from team members can take days.
 
