@@ -20,7 +20,7 @@
           <a href="{{ post.url }}">
             <div class="blog-tile">
               <b>{{ post.date | date: "%-d %B %Y" }} - {{ post.title }}</b>
-              <p>{{ post.summary }} <i>[{{ post.content | size }} words]</i></p>
+              <p>{{ post.summary }} <i>({{ post.content | number_of_words }} words)</i></p>
             </div>
           </a>
           {% endfor %}
@@ -97,7 +97,7 @@
           {% for post in site.categories.supporting-me %}
             <div class="blog-tile" onclick="window.location.href='{{ post.url }}';">
               <b>{{ post.date | date: "%-d %B %Y" }} - {{ post.title }}</b>
-              <p>{{ post.summary }} <i>({{ post.content | size }} words)</i></p>
+              <p>{{ post.summary }} <i>({{ post.content | number_of_words }} words)</i></p>
             </div>
           {% endfor %}
         </div>
