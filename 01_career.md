@@ -11,7 +11,7 @@ I'm a big fan of single page CVs, I've been using them for years. As a hiring ma
 ## LRQA
 LRQA is a global assurance provider, with operations in 140+ countries providing assessment, inspection, advisory and cyber services.
 
-### Head of AppSec and DevOps | Jan 2024 - Present
+### Head of DevOps | Jan 2024 - Present
 
 Upon completing the AppSec assessments, it was clear that LRQAs low maturity for engineering was the most significant cyber risk, and to ensure I was making the biggest impact I asked to take ownership of DevOps, helping the organisation move to automated CI/CD SDLC processes, aligning the various DevOps factions and standardised IaC practises to help deliver a new Azure Platform with Hub & Spoke Design with Landing Zones for application development.
 
