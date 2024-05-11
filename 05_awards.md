@@ -10,7 +10,7 @@ show_tile: false
 I'm fortunate enough to have won, and enabled, several awards in my career.
 
 ### 2023 - Computing Awards - DevSecOps Implementation - Highly Commended
-After 2 years at the helm of the security engineering function at ClearBank, building the function from a team of 1 to 9, greatly increasing the organisation security maturity, reducing key security risks and reducing security friction in the SDLC, our efforts were acknowledged at the 2023 Computing Awards.
+After 2 years at the helm of the security engineering function at ClearBank, building the function from a team of 1 to 9, greatly increasing the organisation security maturity, reducing key security risks and reducing security friction in the SDLC, our efforts were acknowledged at the 2023 Computing Awards where we awarded Highly Commended for DevSecOps implementation.
 
 ### 2014 - Class Prize (Highest Academic Achievement) BSc Computer Science
 Won the class prize for my degree year in Computer Science at RGU for highest academic achievement. Came at the cost of a social life but happy that the efforts were acknowledged!

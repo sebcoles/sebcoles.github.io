@@ -6,9 +6,7 @@ image: assets/images/mtl.jpg
 nav-menu: true
 ---
 
-I'm a big fan of single page CVs, I've been using them for years. As a hiring manager, getting a short CV that is to the point and relevant to the role is much appreciated. However sometimes someone may wish to drill more into my roles, and thats what this page is for. 
-
-I have always treated my career like a my own graduated programme, I move around to experience different markets, leaders, approaches, challenges and technology. I tend to move roles whenever I begin to feel comfortable in the role as I like to seek growth opportunities.
+I'm a big fan of single page CVs, I've been using them for years. As a hiring manager, getting a short CV that is to the point and relevant to the role is much appreciated. However sometimes someone may wish to drill more into my roles, and thats what this page is for. I have always treated my career like a my own graduated programme, I move around to experience different markets, leaders, approaches, challenges and technology. I tend to move roles whenever I begin to feel comfortable in the role as I like to seek growth opportunities!
 
 ## LRQA
 LRQA is a global assurance provider, with operations in 140+ countries providing assessment, inspection, advisory and cyber services.
