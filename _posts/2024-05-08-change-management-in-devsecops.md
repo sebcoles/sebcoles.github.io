@@ -13,7 +13,6 @@ summary: This is an introductory post to the topic of organisational change mana
 
 ![profile pic](/assets/images/change_management_may_2024.jpg)
 
-
 ## Introduction
 In this post I will give an overview of what Change Management is and two frameworks I have used in the past to help me make an impact with DevSecOps. The first is the Three Level Culture Model by Edgar Shein which can enable simple assessments of culture and helps you understand your playing field. The second is Kotter’s 8 Steps for Change by John Kotter, this one I have included in my conference talks, it is a great simple model to understand the extra activities and ordering of a change programme. Understanding and learning about <i>Change</i> is vital to any transformation project and I hope you find this of value. 
 
@@ -27,7 +26,7 @@ And yet in a field such as technology, where we are implementing change continuo
 ## Assessing Culture
 Before we talk about change models, it is important to be able to assess a culture - you need to be able to describe that for which you are aiming. This is made slightly tricky as "Organisational Culture" does not have a concrete definition, but Edgar Schein makes an attempt at this with the words <i>"the underlying beliefs, assumptions, values and ways of interacting that contribute to the unique social and psychological environment of an organisation.”</i> (Schein, 1985). Continuing with Schein, he also proposed the Three Level Culture Model as a way of describing a culture as shown in the diagram below.
 
-ADD PICTURE
+![profile pic](/assets/images/three_level_culture_model.png)
 
 <b>Artifacts</b> being the tip of the iceberg - visible out of the water - the tangible and easily observed evidence of culture. This is the brand, the uniform, the benefits, offices (or not), slogans and PR. The external signals that an organisation emits.
 
@@ -38,9 +37,7 @@ Finally, we have the murky underworld of <b>Basic Underlying Assumptions</b> whi
 ### In the Context of DevSecOps?
 The Three Level Culture Model can be used against any magnitude of social structure, such as a development team. The reason you want to do this is to enable insights into how you might influence and nudge the team as part of your DevSecOps transformation. All teams have subcultures, and a big mistake would be to have a one size fits all approach to change. For example!
 
-<b>Engineering Team - X</b>
-
-As our first example we will take team X.
+<b>Engineering Team - Terrific Tigers</b>
 
 <i>Artifacts</i> could be the team logo, such as a tiger, the vocal and opinionated presence in teams’ calls, the general sense of grandiosity and looking down on other teams. These are artifacts because it is visible to those who are not part of this social fabric and are projected by the team, you can receive these signals easily.
 
@@ -56,9 +53,7 @@ I will stress, the point of this exercise is not to apply a judgement to a team�
 
 Frameworks do not provide answers, they just structure your thinking to gain, uncover insights which can be used to inform an approach to dealing with the team’s culture. Can you see how some of these insights might change how I roll out a security tool to the team?
 
-<b>Engineering Team - Y</b>
-
-As our second example we will take Team Y
+<b>Engineering Team - Fantastic Foxes</b>
 
 <i>Artifacts</i> In this case the team have an extremely limited presence, little to no intentional signals, but there are other clues we can look to. They do not participate in group calls, they never speak up, cameras are always off for this team. The team are frequently placed last in statistics - either on number of incidents, security issues, technical debt etc. Getting a response from team members can take days.
 
@@ -116,8 +111,14 @@ The goal of these tools is not to get to zero, it is about being able to take an
 ### Step 7 - Don't Let Up
 You need to plan for people disengaging with your change overtime. You will be competing for change with other initiatives that will have the benefit of being novel. You need to plan for this and find ways to keep people interested. Gamification is a useful technique to bring into your programme once the tools are in place. Status plays a big part in an engineering organisation and being able to provide a relative view of teams and how the compare, can spur competition. Even the teams that do not want to play, certainly do not want to lose. It does need to be done with care and respect, some teams will inherit a legacy part of the estate that is difficult to work with and a hotbed of risk. By gamifying the delta, the improvement each month, and rewarding the teams that improve their estate the most, we can keep the game fair, and everyone can stay in the game.
 
-### Step 8 - Making it stick
+### Step 8 - Making it Stick
 The final part of the steps for change is being able to make the system continue without your involvement. For me, this is about developing the next leaders who can take the flag from you and continue to promote secure practices. This takes coaching, mentoring, and developing a talented team, but that is also a post for another day.
+
+Bringing it all together looks a little bit like this!
+
+![profile pic](/assets/images/kotters_and_devsecops_roadmap.PNG)
+
+I have a video talking through this from BSides Bristol (2023), you can find a link to in on YouTube from my [speaking page](/speaking/).
 
 ### Summary
 In the post we touched in how we could use Shein's Three Level Culture Model to help assess the culture of a team, function, or organisation. The model does not provide any answers but can help us gain insights into how we might try and nudge a team on the path to secure development. We also looked at Kotter's 8 Steps for change and how they can be applied to a DevSecOps transformation. My hope was to give you an overview and with time we can explore each step-in detail with future posts. I hope that was useful and interesting, thanks for reading! Seb
