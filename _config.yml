@@ -1,13 +1,12 @@
-# site settings
 title: Sebastian Coles
 email: seb_coles@outlook.com
-description: >- # this means to ignore newlines until "baseurl:"
-  DevSecOps Consultant | I help organisations ship great products securely, and at speed.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://sebcoles.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+description: >- 
+  DevSecOps Consultant | I bridge between CTO and CISO | Helping organisations ship great products securely, and at speed.
+baseurl: ""
+url: "https://sebcoles.github.io"
 github_username:  sebcoles
 google_analytics: G-TJCWV11W4Q
-tiles-source: pages # accepts "posts" or "pages"
+tiles-source: pages
 tiles-count: 6
 socials:
   GitHub: https://github.com/sebcoles
