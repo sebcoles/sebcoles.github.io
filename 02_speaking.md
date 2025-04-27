@@ -16,6 +16,15 @@ I have no future events booked in the calendar yet!
 
 Below are previous speaking events, with links to videos where they have been recorded or to the decks that are hosted on GitHub.
 
+## April 2025 - BSides - Exeter
+### Grand Social Engineering - DevSecOps and Influence
+
+A fantastic local conference in the south west, I was covering Kotter's 8 Steps for change, stakeholder management, how to overcome resistance and how to create great internal communications to help you win with DevSecOps.
+
+[![profile pic](/assets/images/bsides.png)](/assets/decks/bsides_exeter_2025_v2.pptx "Video Title")
+
+I got the big room in the Auditorium! Great to catch up with some old friends as well, will be attending this one again.
+
 ## May 2024 - National Cyber Security Show - Birmingham
 ### Tools are not the Answer - Leadership and Change in DevSecOps
 
