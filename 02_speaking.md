@@ -21,7 +21,7 @@ Below are previous speaking events, with links to videos where they have been re
 
 A fantastic local conference in the south west, I was covering Kotter's 8 Steps for change, stakeholder management, how to overcome resistance and how to create great internal communications to help you win with DevSecOps.
 
-[![profile pic](/assets/images/bsides.png)](/assets/decks/bsides_exeter_2025_v2.pptx "Video Title")
+[![profile pic](/assets/images/bsides.jpeg)](/assets/decks/bsides_exeter_2025_v2.pptx "Video Title")
 
 I got the big room in the Auditorium! Great to catch up with some old friends as well, will be attending this one again.
 
