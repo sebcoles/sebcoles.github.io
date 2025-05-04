@@ -6,81 +6,111 @@ image: assets/images/mtl.jpg
 nav-menu: true
 ---
 
-I'm a big fan of single page CVs, I've been using them for years. As a hiring manager, getting a short CV that is to the point and relevant to the role is much appreciated. However sometimes someone may wish to drill more into my roles, and thats what this page is for. I have always treated my career like a my own graduated programme, I move around to experience different markets, leaders, approaches, challenges and technology. I tend to move roles whenever I begin to feel comfortable in the role as I like to seek growth opportunities!
+# 💼 My Career Journey
 
-## Seccl
-Seccl is a platform investment infrastructure company and part of the Octopus Group, powering investment for amazing customers like Chip and GoHenry.
+While I’m a strong believer in concise, single-page CVs, this page gives a **richer view into my career** for those who want to dig deeper.
 
-### Security and Infrastructure Manager | Jan 2025 - Present
+I’ve always treated my career like a self-driven **graduate programme**—deliberately choosing roles that let me explore **new markets, leaders, technologies, and challenges**. I usually move on when things get comfortable—because that’s when I know it’s time to grow again.
 
-Looking after all things Security such as IDAM, GRC, AppSec and Security Operations as well as Technology Operations, keeping our colleagues running securely. 
+---
 
-## LRQA
-LRQA is a global assurance provider, with operations in 140+ countries providing assessment, inspection, advisory and cyber services.
+## 🏢 **Seccl**
 
-### Head of DevOps | Jan 2024 - Dec 2024
+**Platform Investment Infrastructure | Part of Octopus Group**
+📍 *Jan 2025 – Present*
+**🔐 Security and Infrastructure Manager** <img src="/assets/logos/seccl.png" alt="Seccl logo" width="100"/>
 
-Upon completing the AppSec assessments, it was clear that LRQAs low maturity for engineering was the most significant cyber risk, and to ensure I was making the biggest impact I asked to take ownership of DevOps, helping the organisation move to automated CI/CD SDLC processes, aligning the various DevOps factions and standardised IaC practises to help deliver a new Azure Platform with Hub & Spoke Design with Landing Zones for application development.
+I lead both the Security and Technology Operations teams, covering areas such as **identity and access management, governance, AppSec, and security operations**. I'm focused on reducing operational risk, improving secure developer experience, and maintaining strong audit and compliance postures. This role allows me to apply a **balanced technical and people-first approach** to protect customer assets while enabling agility.
 
-### Head of AppSec and Resiliency | June 2023 - Jan 2024
+---
 
-Initially hired to perform application discovery and security maturity assessments. I completed this using BSIMM, in the process discovering 100+ systems and several development capabilities, the resulting report I presented to non executive directors to highlight challenges and seek investment. In this time I also delivered a code signing solution (DigiCert KeyLocker), and consulted on several third party and in house development projects.
+## 🏢 **LRQA**
 
-## ClearBank
-ClearBank is a cloud native UK dual regulated clearing bank providing services such as agency banking and BaaS (Banking as a Service).
+**Global Assurance Provider | 140+ Countries**
+📍 *Jun 2023 – Dec 2024* <img src="/assets/logos/lrqa.png" alt="LRQA logo" width="100"/>
 
-### Senior Engineering Manager | Oct 2022 - June 2023
+### 👨‍💻 Head of DevOps (*Jan 2024 – Dec 2024*)
 
-Responsible for x3 team streams across x8 engineers, delivering platform security services such as SAST/SCA/Managed Identity, security consultancy such as Risk Management, Threat Modelling, Security Learning and Security Champions initiatives, and developing initial secret management team and approach. Operational activities handed over to junior management team and managed successful exit from the organisation. Working with key customers on security concerns, investigation and development of case studies for strategic technology.
+I initiated and led a DevOps transformation, targeting the root cause of cyber risk: underdeveloped engineering practices. I aligned DevOps teams under a unified strategy, deployed modern CI/CD pipelines, and helped establish a **secure-by-default Azure landing zone**. This work created scalable foundations for engineering and resilience.
 
-### Engineering Manager | May 2022 - Oct 2022
+### 🛡️ Head of AppSec & Resiliency (*Jun 2023 – Jan 2024*)
 
-Development of second year of security engineering strategy and awarded further investment taking team size to x7 engineers. Responsible for delivery, product management of security services, developing junior managers and enabling team rotations. Also responsible for customer facing engagements for technical security. Delivered 85% reduction in Snyk flaws during 2022, 80% voluntary uptake in security learning (Hacksplaining), supporting secure low code development, ISO27001, and enabling strategic migration to managed identity. Met all outcomes for the 2022 on time.
+Hired to assess AppSec maturity, I performed a BSIMM assessment across a fragmented tech estate and uncovered key gaps. I built a narrative for executive leadership that led to additional investment. Alongside this, I delivered a **code signing platform**, advised on third-party security, and initiated cultural change in security accountability.
 
-### Team Leader | June 2021 - May 2022
+---
 
-Business case accepted and given funding to hire x4 engineers to deliver first year of security engineering roadmap. Responsible for hiring, team development, communications and stakeholder management. Responsible for delivery of SAST, SCA and IaC scanning (Snyk), Estate wide threat modelling (ThreatDragon), Review of permissions movement to zero standing access with time based access (MS Access Packages) and tactical remediation of critical infrastructure flaws. Roadmap delivered on time.
+## 🏦 **ClearBank**
 
-### Senior Security Engineer | Jan 2021 - June 2021
+**Cloud-Native Clearing Bank | BaaS + Agency Banking**
+📍 *Jan 2021 – Jun 2023* <img src="/assets/logos/clearbank.png" alt="ClearBank logo" width="100"/>
 
-Responsible for full stack development, technical product ownership and delivery management of several internal security tools. Initial assessment of ClearBank estate, roadmap development and target operating model for security engineering.
+### 👥 Senior Engineering Manager (*Oct 2022 – Jun 2023*)
 
-## Veracode
-Gartner Market Leaders in application security testing, providing a comprehensive suite of automated tools and security services.
+Led 3 teams delivering security services and internal products while maintaining high developer engagement. Partnered with stakeholders to build case studies from security incidents and managed a smooth team transition. I prioritised **scaling leadership** and ensuring the team remained high-performing after my exit.
 
-### Senior Application Security Consultant | Feb 2020 - Jan 2021
+### 🧩 Engineering Manager (*May 2022 – Oct 2022*)
 
-Consultant with a Gartner Application Security Testing (AST) Leader providing security remediation consultancy to Teir 2 banking clients internationally. I also built opensource integrations to reduce friction when using Veracode security tooling and was active in the Veracode Community.
+Scaled the team to 7, built a security product roadmap, and embedded secure development practices across business units. Delivered a major **Snyk flaw remediation initiative** and successfully rolled out a learning programme with over 80% voluntary adoption. I balanced **strategic direction and tactical delivery**, enabling infrastructure-as-code security at scale.
 
-## Clarks
-International shoe retailer, founded and headquartered in Street, UK. The Clarks ecommerce platforms alone generated over 1 million revenue daily.
+### 📈 Team Leader (*Jun 2021 – May 2022*)
 
-### Application Security Engineer | Nov 2019 - Feb 2020
+Formed the security engineering function by securing funding and building the team. Delivered an effective first-year roadmap covering SAST, SCA, threat modelling, and standing access reduction. I focused on building strong internal comms and stakeholder trust to support security as a service model.
 
-As part of the leadership team for IT Security and Digital Engineering, I was the start of the application security capability at Clarks. Supporting 60 engineers in building secure products and the safety of a multimillion eCommerce platform. Responsible for building & running an app sec programme, implementation of SAST (Coverity) and SCA (BlackDuck), DAST (ImmuniWeb), eLearning (Synopsys) and managing pen test engagements.
+### 🔍 Senior Security Engineer (*Jan 2021 – Jun 2021*)
 
+Scoped and built out the security tooling strategy from scratch, writing the first operating model for security engineering. Delivered internal DevSecOps platforms and helped lay the groundwork for the team’s growth. My work formed the foundation of ClearBank’s **DevSecOps transformation**.
 
-## UK Hydrographic Office
-UKHO is a trading arm of the ministry of defence and is part of the civil service, focusing on maritime charts and safety of life at sea.
+---
 
-### Lead Software Engineer | Aug 2018 - Nov 2019
+## 🛡️ **Veracode**
 
-Responsible for x2 delivery teams, ensuring product quality and timely delivery for GIS and data services. Additional line management responsibilities with engineers outside of my delivery teams. Recognized as an expert in application security, tasked with improving standards across 8 mixed technology teams. Running a programme of improvement such as education, introducing threat modelling, adoption of SAST and DAST technologies and chairing a security champions initiative.
+**Gartner Leader in Application Security Testing**
+📍 *Feb 2020 – Jan 2021*
+**🔐 Senior Application Security Consultant** <img src="/assets/logos/veracode.png" alt="Veracode logo" width="100"/>
 
-### Senior Software Engineer | Sep 2017 - Aug 2018
+I worked with major financial institutions, helping them remediate critical security issues in high-pressure environments. Delivered security architecture consultancy and supported vulnerability triage and developer coaching. I also built and published **open-source tooling** to improve platform adoption, contributing back to the Veracode ecosystem.
 
-DV cleared software engineer building GIS software in Python, C# and JavaScript. Responsible for full stack development and security advisory to support our Navy client.
+---
 
-## Xeretec
-Xeretec is a Xerox channel partner, providing print, managed print services and solutions.
+## 👟 **Clarks**
 
-### Senior Software Engineer | Aug 2016 - Sep 2017
+**International Footwear Retailer**
+📍 *Nov 2019 – Feb 2020*
+**🛡️ Application Security Engineer** <img src="/assets/logos/clarks.png" alt="Clarks logo" width="100"/>
 
-Responsible for building software development capability at Xeretec. Took the team up to x4 engineers, responsible for hiring and performance development. Took to market a BI solution enabling customers to reduce print costs, and building a support suite of applications for print devices and scaling it across a print fleet of 12,000.
+Built the application security programme from the ground up across 60 engineers and a multi-million-pound eCommerce platform. Rolled out SAST, SCA, and DAST tooling, created educational paths, and embedded security into agile ceremonies. I helped **bridge the gap between engineering and security**, fostering shared responsibility.
 
-## Marine Technical Limits
-MTL is an asset integrity and repair company specializing in FPSOs
+---
 
-### Software Engineer | Feb 2015 - Aug 2016
+## 🌊 **UK Hydrographic Office**
 
-Software engineer building virtual reality offshore training in Unity3D and the Oculus rift. Responsible for full stack development.
+**MOD Trading Arm | Maritime Navigation Data**
+📍 *Sep 2017 – Nov 2019* <img src="/assets/logos/ukho.png" alt="UKHO logo" width="100"/>
+
+### 🧠 Lead Software Engineer (*Aug 2018 – Nov 2019*)
+
+Led two delivery teams focused on GIS tooling and marine data pipelines. Played a cross-functional security lead role, coaching teams, introducing threat modelling, and chairing a champions initiative. This was my first **real security leadership role**, and where I began formalising a security engineering approach.
+
+### 💻 Senior Software Engineer (*Sep 2017 – Aug 2018*)
+
+Delivered production-grade GIS applications in Python and JavaScript, supporting Royal Navy operations. I contributed both to engineering and as an informal **security advisor**, helping shape future maturity initiatives.
+
+---
+
+## 🖨️ **Xeretec**
+
+**Managed Print Services & BI Solutions**
+📍 *Aug 2016 – Sep 2017*
+**💡 Senior Software Engineer** <img src="/assets/logos/xeretec.png" alt="Xeretec logo" width="100"/>
+
+Built the company's first software development team and took a BI product to market. Created internal apps for fleet management across 12,000+ printers. This role taught me how to **bootstrap capability**, wear many hats, and ship product in a lean setting.
+
+---
+
+## ⚓ **Marine Technical Limits (MTL)**
+
+**Asset Integrity & Offshore Repair Services**
+📍 *Feb 2015 – Aug 2016*
+**🎮 Software Engineer** <img src="/assets/logos/mtl.png" alt="MTL logo" width="100"/>
+
+Built immersive VR training environments for offshore engineers using Unity3D and Oculus Rift. This was a niche but pivotal experience—where I explored **safety, human factors, and engineering in high-risk domains**. Learned how to communicate risk in an intuitive, visual way.
