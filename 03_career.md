@@ -18,7 +18,7 @@ I’ve always treated my career like a self-driven **graduate programme**—deli
 
 **Platform Investment Infrastructure | Part of Octopus Group**
 📍 *Jan 2025 – Present*
-**🔐 Security and Infrastructure Manager** <img src="/assets/logos/seccl.png" alt="Seccl logo" width="100"/>
+**🔐 Security and Infrastructure Manager**
 
 I lead both the Security and Technology Operations teams, covering areas such as **identity and access management, governance, AppSec, and security operations**. I'm focused on reducing operational risk, improving secure developer experience, and maintaining strong audit and compliance postures. This role allows me to apply a **balanced technical and people-first approach** to protect customer assets while enabling agility.
 
@@ -27,7 +27,7 @@ I lead both the Security and Technology Operations teams, covering areas such as
 ## 🏢 **LRQA**
 
 **Global Assurance Provider | 140+ Countries**
-📍 *Jun 2023 – Dec 2024* <img src="/assets/logos/lrqa.png" alt="LRQA logo" width="100"/>
+📍 *Jun 2023 – Dec 2024*
 
 ### 👨‍💻 Head of DevOps (*Jan 2024 – Dec 2024*)
 
@@ -42,7 +42,7 @@ Hired to assess AppSec maturity, I performed a BSIMM assessment across a fragmen
 ## 🏦 **ClearBank**
 
 **Cloud-Native Clearing Bank | BaaS + Agency Banking**
-📍 *Jan 2021 – Jun 2023* <img src="/assets/logos/clearbank.png" alt="ClearBank logo" width="100"/>
+📍 *Jan 2021 – Jun 2023*
 
 ### 👥 Senior Engineering Manager (*Oct 2022 – Jun 2023*)
 
@@ -66,7 +66,7 @@ Scoped and built out the security tooling strategy from scratch, writing the fir
 
 **Gartner Leader in Application Security Testing**
 📍 *Feb 2020 – Jan 2021*
-**🔐 Senior Application Security Consultant** <img src="/assets/logos/veracode.png" alt="Veracode logo" width="100"/>
+**🔐 Senior Application Security Consultant**
 
 I worked with major financial institutions, helping them remediate critical security issues in high-pressure environments. Delivered security architecture consultancy and supported vulnerability triage and developer coaching. I also built and published **open-source tooling** to improve platform adoption, contributing back to the Veracode ecosystem.
 
@@ -76,7 +76,7 @@ I worked with major financial institutions, helping them remediate critical secu
 
 **International Footwear Retailer**
 📍 *Nov 2019 – Feb 2020*
-**🛡️ Application Security Engineer** <img src="/assets/logos/clarks.png" alt="Clarks logo" width="100"/>
+**🛡️ Application Security Engineer** 
 
 Built the application security programme from the ground up across 60 engineers and a multi-million-pound eCommerce platform. Rolled out SAST, SCA, and DAST tooling, created educational paths, and embedded security into agile ceremonies. I helped **bridge the gap between engineering and security**, fostering shared responsibility.
 
@@ -85,7 +85,7 @@ Built the application security programme from the ground up across 60 engineers 
 ## 🌊 **UK Hydrographic Office**
 
 **MOD Trading Arm | Maritime Navigation Data**
-📍 *Sep 2017 – Nov 2019* <img src="/assets/logos/ukho.png" alt="UKHO logo" width="100"/>
+📍 *Sep 2017 – Nov 2019*
 
 ### 🧠 Lead Software Engineer (*Aug 2018 – Nov 2019*)
 
@@ -101,7 +101,7 @@ Delivered production-grade GIS applications in Python and JavaScript, supporting
 
 **Managed Print Services & BI Solutions**
 📍 *Aug 2016 – Sep 2017*
-**💡 Senior Software Engineer** <img src="/assets/logos/xeretec.png" alt="Xeretec logo" width="100"/>
+**💡 Senior Software Engineer**
 
 Built the company's first software development team and took a BI product to market. Created internal apps for fleet management across 12,000+ printers. This role taught me how to **bootstrap capability**, wear many hats, and ship product in a lean setting.
 
@@ -111,6 +111,6 @@ Built the company's first software development team and took a BI product to mar
 
 **Asset Integrity & Offshore Repair Services**
 📍 *Feb 2015 – Aug 2016*
-**🎮 Software Engineer** <img src="/assets/logos/mtl.png" alt="MTL logo" width="100"/>
+**🎮 Software Engineer**
 
 Built immersive VR training environments for offshore engineers using Unity3D and Oculus Rift. This was a niche but pivotal experience—where I explored **safety, human factors, and engineering in high-risk domains**. Learned how to communicate risk in an intuitive, visual way.
