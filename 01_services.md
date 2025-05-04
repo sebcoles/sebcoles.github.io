@@ -6,40 +6,48 @@ image: assets/images/ddd_speaking_cropped.jpeg
 nav-menu: true
 ---
 
-As a key ally to CISOs, I navigate technology, product, and platform engineering. I collaborate with engineering teams to minimize security friction in the SDLC, tackle critical cyber risks, and enhance cooperation between infosec and engineering. My award-winning work in this area can help you too.
+### Partnering with CISOs to Enable Secure, Scalable Engineering
 
-### DevSecOps Consultations
+As a trusted ally to CISOs and security leaders, I work at the intersection of technology, product, and platform engineering to embed security without slowing down innovation. By collaborating closely with engineering teams, I help reduce security friction in the software development lifecycle (SDLC), address critical cyber risks, and foster alignment between information security and engineering. My award-winning work in this space has helped numerous organizations—and it can help yours too.
 
-I can provide a range of service for DevSecOps transformation, from helping build the case for change and asking for budgets, preparing roadmap's, communications, training, vendor and tools selection, implementation and reporting. For example I can provide:
+### DevSecOps Consulting Services
 
-- S-SDLC Maturity Assessments (BSIMM, SAMM, NIST SDF) and organisational baseline
-- DevSecOps Roadmap Development 
-- Business Cases
-- Board / Senior Leadership / All Hands Presentations
-- ISO27001 control consultancy for systems development
-- Tool and Vendor Selection, Assessment and Implementation Approach
-- Customer Product Security RFIs and Mediation
-- DevSecOps Recruitment
-- Coaching and Mentoring for DevSecOps Future Leaders
+I offer end-to-end support for DevSecOps transformation initiatives—from building the case for change and securing budgets to implementation, training, and reporting. Whether you’re starting out or scaling up, I can support with
 
-Please feel free to drop me an email and I can provide free no obligations session with you for 30 mins to discuss your challenges.
+- Secure SDLC Maturity Assessments (BSIMM, SAMM, NIST SDF)
+- Baseline Evaluations of organizational security posture
+- DevSecOps Roadmap Development
+- Business Case Creation
+- Executive, Board & All-Hands Presentations
+- ISO 27001 Control Consultancy for system development
+- Security Tool & Vendor Selection and Implementation Strategy
+- Customer Product Security RFIs & Mediation
+- DevSecOps Talent Recruitment
+- Coaching & Mentoring for future DevSecOps leaders
 
-### Public Speaking | Educational, Keynote and Motivational
+💡 Book a free, no-obligation 30-minute session to discuss your challenges and explore how I can help.
 
-I provide talks on DevSecOps and organisational change topics, these cover a range of professional and management skills such as Change and People Management, Marketing, Intrapreneurship. I have presented at several security conferences as a Keynote speaker, get a sense of my topics and approach by viewing previous conference talks in my [speaking page](/speaking/). I tailor my talks for your organisation and I am willing to travel onsite, though I do charge for travel time and expenses.
+### Public Speaking & Workshops
+I speak regularly at security and technology conferences, including as a keynote speaker, on topics spanning DevSecOps, organizational change, and professional growth. My sessions are tailored for your audience and can cover areas such as:
 
-### Security Tooling and Product Advice
+- Change & People Management
+- Intrapreneurship in Security
+- Security Culture and Engagement
+- Marketing Security Internally
 
-For security vendors - I have used many tools in the DevSecOps space, if you are building a product or service and you would like expert feedback on the security impact and developer experience of your tool, I can help. Feedback can be provided in any media format and can be public or private.
+Talks can be delivered virtually or onsite (travel expenses and time are billed separately). View past talks on my [speaking page](/speaking/).
+
+### Security Tooling & Product Feedback
+For security vendors: If you're developing a tool or platform aimed at DevSecOps teams, I can provide in-depth feedback on usability, developer experience, and security impact. Feedback can be delivered in written reports, recorded walkthroughs, or live sessions—confidentially or publicly.
 
 ### Fees
 
 | Type | Cost |
 | --- | --- |
 | Initial 30 minute consultation | Free |
-| Consultancy (Hourly Rate) | £350 |
-| x5 Hour Block | £1350 |
-| x10 Hour Block | £2000 |
+| Hourly Consulting | £350 |
+| 5-Hour Block | £1350 |
+| 10-Hour Block | £2000 |
 | 40-60 minute speaking session (tailored) + Q&A | £850 + Travel Time + Expenses |
 
 <i>All prices subject to 14.5% VAT rate</i>
