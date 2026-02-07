@@ -46,8 +46,7 @@ For security vendors: If you're developing a tool or platform aimed at DevSecOps
 | --- | --- |
 | Initial 30 minute consultation | Free |
 | Hourly Consulting | £350 |
-| 5-Hour Block | £1350 |
-| 10-Hour Block | £2000 |
+| Day Rate | £1000 |
 | 40-60 minute speaking session (tailored) + Q&A | £850 + Travel Time + Expenses |
 
-<i>All prices subject to 14.5% VAT rate</i>
+<i>All prices subject to VAT rate</i>
