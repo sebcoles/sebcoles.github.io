@@ -17,8 +17,12 @@ I’ve always treated my career like a self-driven **graduate programme**—deli
 ## 🏢 **Seccl**
 
 **Platform Investment Infrastructure | Part of Octopus Group**
-📍 *Jan 2025 – Present*
-**🔐 Security and Infrastructure Manager**
+
+### 👨‍💻 Engineering Director - TechOps, Security & Cloud (*Sept 2025 – Present*)
+
+I lead multidisciplinary teams across **IT, security, and cloud engineering**, with responsibility for approximately **20 FTE**. My focus is on building resilient platforms, reducing operational and cyber risk, and enabling teams to deliver reliably at scale. This role combines **strategic leadership with hands-on technical oversight**, covering cloud infrastructure, identity and access management, security engineering, and core technology operations. I work closely with product and engineering leadership to align technology decisions with business priorities, while fostering a culture of ownership, continuous improvement, and operational excellence.
+
+### 🛡️ Security and Infrastructure Manager (*Jan 2025 – Sept 2025*)
 
 I lead both the Security and Technology Operations teams, covering areas such as **identity and access management, governance, AppSec, and security operations**. I'm focused on reducing operational risk, improving secure developer experience, and maintaining strong audit and compliance postures. This role allows me to apply a **balanced technical and people-first approach** to protect customer assets while enabling agility.
 
