@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Sebastian Coles | Engineering, DevOps and Information Security'
+landing-title: 'Sebastian Coles | Fractional CISO & Board Advisor'
 show_tile: false
 ---
 
