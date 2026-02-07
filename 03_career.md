@@ -14,9 +14,8 @@ I’ve always treated my career like a self-driven **graduate programme**—deli
 
 ---
 
-## 🏢 **Seccl**
-
-**Platform Investment Infrastructure | Part of Octopus Group**
+## 🏢 **Seccl | Platform Investment Infrastructure | Part of Octopus Group**
+📍 *Jan 2025 – Present*
 
 ### 👨‍💻 Engineering Director - TechOps, Security & Cloud (*Sept 2025 – Present*)
 
@@ -28,9 +27,7 @@ I lead both the Security and Technology Operations teams, covering areas such as
 
 ---
 
-## 🏢 **LRQA**
-
-**Global Assurance Provider | 140+ Countries**
+## 🏢 **LRQA | Global Assurance Provider | 140+ Countries**
 📍 *Jun 2023 – Dec 2024*
 
 ### 👨‍💻 Head of DevOps (*Jan 2024 – Dec 2024*)
@@ -43,9 +40,7 @@ Hired to assess AppSec maturity, I performed a BSIMM assessment across a fragmen
 
 ---
 
-## 🏦 **ClearBank**
-
-**Cloud-Native Clearing Bank | BaaS + Agency Banking**
+## 🏦 **ClearBank | Cloud-Native Clearing Bank | BaaS + Agency Banking**
 📍 *Jan 2021 – Jun 2023*
 
 ### 👥 Senior Engineering Manager (*Oct 2022 – Jun 2023*)
@@ -66,9 +61,7 @@ Scoped and built out the security tooling strategy from scratch, writing the fir
 
 ---
 
-## 🛡️ **Veracode**
-
-**Gartner Leader in Application Security Testing**
+## 🛡️ **Veracode | Gartner Leader in Application Security Testing**
 📍 *Feb 2020 – Jan 2021*
 **🔐 Senior Application Security Consultant**
 
@@ -76,9 +69,7 @@ I worked with major financial institutions, helping them remediate critical secu
 
 ---
 
-## 👟 **Clarks**
-
-**International Footwear Retailer**
+## 👟 **Clarks | International Footwear Retailer**
 📍 *Nov 2019 – Feb 2020*
 **🛡️ Application Security Engineer** 
 
@@ -86,9 +77,7 @@ Built the application security programme from the ground up across 60 engineers 
 
 ---
 
-## 🌊 **UK Hydrographic Office**
-
-**MOD Trading Arm | Maritime Navigation Data**
+## 🌊 **UK Hydrographic Office | MOD Trading Arm | Maritime Navigation Data**
 📍 *Sep 2017 – Nov 2019*
 
 ### 🧠 Lead Software Engineer (*Aug 2018 – Nov 2019*)
@@ -101,9 +90,7 @@ Delivered production-grade GIS applications in Python and JavaScript, supporting
 
 ---
 
-## 🖨️ **Xeretec**
-
-**Managed Print Services & BI Solutions**
+## 🖨️ **Xeretec | Managed Print Services & BI Solutions**
 📍 *Aug 2016 – Sep 2017*
 **💡 Senior Software Engineer**
 
@@ -111,9 +98,7 @@ Built the company's first software development team and took a BI product to mar
 
 ---
 
-## ⚓ **Marine Technical Limits (MTL)**
-
-**Asset Integrity & Offshore Repair Services**
+## ⚓ **Marine Technical Limits (MTL) | Asset Integrity & Offshore Repair Services**
 📍 *Feb 2015 – Aug 2016*
 **🎮 Software Engineer**
 
