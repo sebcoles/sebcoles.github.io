@@ -144,5 +144,5 @@ Delivered a 5-minute lightning talk while sleep-deprived from walking my 1-year-
 ## 💬 Book Me
 
 Whether you’re running a conference, internal offsite, or need an engaging talk on DevSecOps and culture—**I’d love to hear from you**.
-[📧 Drop me a message →](mailto:seb_coles@outlook.com)
+[📧 Drop me a message →](mailto:sebastian@scoles-advisory.com)
 
