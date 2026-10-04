@@ -54,7 +54,7 @@
       footerNode.innerHTML =
         '<footer class="site-footer">' +
         '<div class="site-footer-inner">' +
-        '<div>Secure engineering leadership, with people at the center. <span id="footer-year"></span></div>' +
+        '<div>Secure engineering leadership, with people at the center. <span id="footer-year"></span><br>SCOLES ADVISORY LIMITED | Company number 15937113</div>' +
         '<div class="social">' +
         '<a href="https://github.com/sebcoles" target="_blank" rel="noopener noreferrer">GitHub</a>' +
         '<a href="https://www.linkedin.com/in/sebastiancoles" target="_blank" rel="noopener noreferrer">LinkedIn</a>' +
