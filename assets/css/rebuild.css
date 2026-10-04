@@ -232,6 +232,12 @@ p {
   font-size: clamp(1.9rem, 4.1vw, 3.35rem);
 }
 
+.hero .credentials {
+  margin: -0.8rem 0 0.75rem;
+  font-family: "Space Grotesk", sans-serif;
+  font-weight: 600;
+}
+
 .hero p {
   max-width: 68ch;
   margin-bottom: 0;
