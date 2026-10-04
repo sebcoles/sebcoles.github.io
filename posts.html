@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Posts | Sebastian Coles</title>
+    <meta name="description" content="Articles on DevSecOps, leadership, and culture.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Bitter:wght@400;500;700&family=Space+Grotesk:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    >
+    <link rel="stylesheet" href="assets/css/rebuild.css?v=20261004c">
+  </head>
+  <body>
+    <div id="site-header"></div>
+
+    <main id="main-content" class="page-wrap">
+      <article class="card reveal">
+        <header class="page-header">
+          <h1>Posts</h1>
+          <p>Writing and reflections across security, change, and leadership.</p>
+        </header>
+        <section class="post-controls" aria-label="Filter posts">
+          <div class="control">
+            <label for="post-search">Search posts</label>
+            <input id="post-search" type="search" placeholder="Search by title or summary">
+          </div>
+          <div class="control">
+            <label for="post-category">Category</label>
+            <select id="post-category">
+              <option value="">All categories</option>
+            </select>
+          </div>
+        </section>
+        <div id="posts-list" class="post-list"></div>
+        <p id="post-empty" class="post-empty" hidden>No posts match your current filters.</p>
+      </article>
+    </main>
+
+    <div id="site-footer"></div>
+    <script src="assets/js/posts-data.js?v=20261004"></script>
+    <script src="assets/js/rebuild.js?v=20261004"></script>
+  </body>
+</html>
