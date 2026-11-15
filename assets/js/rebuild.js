@@ -2,6 +2,7 @@
   var navItems = [
     { href: "index.html", label: "Home" },
     { href: "services.html", label: "Services" },
+    { href: "coaching.html", label: "Coaching" },
     { href: "speaking.html", label: "Speaking" },
     { href: "career.html", label: "Career" },
     { href: "posts.html", label: "Posts" },
