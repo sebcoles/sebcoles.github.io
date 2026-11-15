@@ -1,5 +1,32 @@
 window.POSTS = [
   {
+    slug: "coaching-point-10-power-of-words",
+    title: "Junior Manager Coaching #10",
+    date: "2026-11-15",
+    category: "Management and Leadership",
+    summary:
+      "A reflection on how a manager's words can shape someone's confidence, identity, and career for years to come.",
+    source: "assets/content/posts/coaching-point-10-power-of-words.html"
+  },
+  {
+    slug: "coaching-point-9-art-of-listening",
+    title: "Junior Manager Coaching #9",
+    date: "2026-11-15",
+    category: "Management and Leadership",
+    summary:
+      "How emotional labelling, curious questions, and reflecting someone's words can help them feel heard.",
+    source: "assets/content/posts/coaching-point-9-art-of-listening.html"
+  },
+  {
+    slug: "coaching-point-8-marketing-101",
+    title: "Junior Manager Coaching #8",
+    date: "2026-11-15",
+    category: "Management and Leadership",
+    summary:
+      "Apply customer insight and the marketing mix to communicate your team's work in a way that resonates.",
+    source: "assets/content/posts/coaching-point-8-marketing-101.html"
+  },
+  {
     slug: "coaching-point-7-leverage",
     title: "Junior Manager Coaching #7",
     date: "2026-10-04",
